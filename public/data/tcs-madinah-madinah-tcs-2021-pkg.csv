@@ -1,0 +1,504 @@
+correct code,Service Name,Price list,price of 1/2/2021
+ORT-0008,2nd Class to 1stClass Room Difference,500.0,550.0
+FMRMB-9925,2nd Class to Normal Suite Room Difference,1500.0,1650.0
+SUR-0001,Abscess Drainage GA,1650.0,1815.0
+SUR-0002,Circumcision (Over 1 yr. old) G.A.,2000.0,2200.0
+SUR-0003,Circumcision (less than 1 yr. old) I.A.,600.0,660.0
+SUR-0004,Removal Foreign Body L.A.,900.0,990.0
+SUR-0005,Removal of Perianal Skin Tag LA,900.0,990.0
+SUR-0006,Drainage of Peri-Anal Abscess I.A.,2100.0,2310.0
+SUR-0007,Excision of Lipoma LA,1650.0,1815.0
+SUR-0008,Removal-Thrombosed Pile GA,2950.0,3245.0
+SUR-0009,Debridement of Friction Burns L.A.,1650.0,1815.0
+SUR-0010,Removal of Perianal Skin Tag GA,2950.0,3245.0
+SUR-0011,Excision of Lipoma GA,2890.0,3179.0
+SUR-0012,Ischio Rectal Abscess 1 & D,2800.0,3080.0
+SUR-0013,Anal Dilatation,2950.0,3245.0
+SUR-3014,L.A. Lympti Node Biopsy,1430.0,1573.0
+SUR-0015,Drainage-Large Abcess LJnder G.A.,2400.0,2640.0
+SUR-0016,G.A. Lympli Node Biopsy,2420.0,2662.0
+SUR-0017,Excision-Small Skin Tumors G.A.,2420.0,2662.0
+SUR-0018,ORT-0008,2400.0,2640.0
+SUR-0019,Excision-Sebaceous Cyst L.A,1800.0,1980.0
+SUR-0020,Excision- Ganglion Cyst L.A,2200.0,2420.0
+SUR-0021,Ingrowing Toe Nail Removal L.A.,825.0,908.0
+SUR-0022,Excision - Multiple Big Lipoma G.A.,3300.0,3630.0
+SUR-0023,L.A. Haematoma Evacuation,1650.0,1815.0
+SUR-0024,Excision- Multiple Neurofibroma L.A.,3300.0,3630.0
+SUR-0025,ERCP Diagnosis,3300.0,3630.0
+SUR-0026,ERCP Therapeutic,5500.0,6050.0
+SUR-0027,Percutaneous Liver Biopsy - LA without Histopatli,1540.0,1694.0
+SUR-0028,Removal of Submandibular Gland Stones-LA,2200.0,2420.0
+SUR-0029,Perianal Abscess Under G.A.,2950.0,3245.0
+SUR-0030,Excision of Simple Tumor or Chronic Abscess of Breast,4000.0,4400.0
+SUR-0031,Small Mass local excision,4200.0,4620.0
+SUR-0032,Laparoscopy (Diagnostic),8700.0,9570.0
+SUR-0033,Partial Mastectomy,6600.0,7260.0
+SUR-0034,Low Imperforated Anus,4200.0,4620.0
+SUR-0035,Biopsy Breast + Tissue Tumor Excision,4000.0,4400.0
+SUR-0036,"Inguinal, Umbilical, Para-Umbilical or Femoral Hernia Surgery w/o Mesh",6650.0,7315.0
+SUR-0037,Mastectomy Male,5000.0,5500.0
+SUR-0038,Low Anal Fistula,4700.0,5170.0
+SUR-0039,Clearance of Fatty Hernia of Linea Alba,4200.0,4620.0
+SUR-0040,Pilonidal Sinus,4750.0,5225.0
+SUR-0041,Undescended Tests within or Outside the Inguinal - Unilateral,5950.0,6545.0
+SUR-0042,"Anal Fissure Operation ,Sphincterectomy",4750.0,5225.0
+SUR-0043,Haemorrhoidectomy or Pile Under G.A.(Surgical Excision),6000.0,6600.0
+SUR-0044,Colostomy,5900.0,6490.0
+SUR-0045,Small Incisional Hernia w/o Mesh,5500.0,6050.0
+SUR-0046,Large Incisional Hernia w/out mesh - surgical,8400.0,9240.0
+SUR-0047,Congenital Pyloric Stenosis,7000.0,7700.0
+SUR-0048,Closure of Colostomy with Anastomosis- Surgical,9900.0,10890.0
+SUR-0049,Lap. Cliolecystectomy,11800.0,12980.0
+SUR-0050,Lap. Appendectomy,9900.0,10890.0
+SUR-0051,Lap. Inguinal Hernia Repair w/o Mesti,9450.0,10395.0
+SUR-0052,Skin Grafting- Small,4000.0,4400.0
+SUR-0053,Skin Grafting- Meduim,6000.0,6600.0
+SUR-0054,Skin Grafting - Large,8000.0,8800.0
+SUR-0055,Staple Haemorrhoidectomy,8500.0,9350.0
+SUR-0056,Closure of Colostomy,6550.0,7205.0
+SUR-0057,Bronchial Cyst,5250.0,5775.0
+SUR-0058,Lumpectomy with Axillary Mass,11050.0,12155.0
+SUR-0059,Imperforated Anus-Perineal Anoplasty,8000.0,8800.0
+SUR-0060,Imperforated Anus-Colostomy,8000.0,8800.0
+SUR-0061,Appendectomy Open,7700.0,8470.0
+SUR-0062,Subtotal Thyroidectomy,9900.0,10890.0
+SUR-0063,Amputation of Limbs Gangrene,8800.0,9680.0
+SUR-0064,Strangulated Hernia,8000.0,8800.0
+SUR-0065,Rectal Prolapse,9300.0,10230.0
+SUR-0066,Lap. Closure of Perforated of D.U.,12000.0,13200.0
+SUR-0067,Arterial Embolectomy and Venous Thrombectomy,12650.0,13915.0
+SUR-0068,Total Thyroidectomy,12100.0,13310.0
+SUR-0069,Excision of Submandibular Gland G.A.,6300.0,6930.0
+SUR-0070,baporotomy without Procedure,7100.0,7810.0
+SUR-0071,taparoscopic Adhesolysis,9900.0,10890.0
+SUR-0072,Diverticulation Repair wittiout Mesh,6000.0,6600.0
+SUR-0073,Radial Thyroidectomy,13200.0,14520.0
+SUR-0074,Enuclation of Thyroid Cyst,6000.0,6600.0
+SUR-0075,Recurrent Hernia w/o Mesh,7350.0,8085.0
+SUR-0076,High Anal Fistula,7920.0,8712.0
+SUR-0077,Strangulated Hernia and Resection Anastomosis,13000.0,14300.0
+SUR-0078,Diaphragmatic Hernia- Open,14700.0,16170.0
+SUR-0079,Excision of Hepatic Cysts,11500.0,12650.0
+SUR-0080,Bowel Anastomosis Resection,11000.0,12100.0
+SUR-0081,Acute Peritonitis / laparotomy,8800.0,9680.0
+SUR-0082,Congenital Intestinal stricture,8000.0,8800.0
+SUR-0083,Embolectomy for Limb Ischemia,10000.0,11000.0
+SUR-0084,Drain L!?er Abcess,11000.0,12100.0
+SUR-0085,Hydatid Cyst liver,11000.0,12100.0
+SUR-0086,laporotomy Exploration w/ Procedure,11550.0,12705.0
+SUR-0087,Cholecystoduodenostomy-Surgery,15000.0,16500.0
+SUR-0088,Open Cliolecystectomy,9200.0,10120.0
+SUR-0089,Splenectomy,11850.0,13035.0
+SUR-0090,Parotidectomy,12000.0,13200.0
+SUR-0091,Repair of Gastro Fistula or Intestinal Perforation (Surgery),11000.0,12100.0
+SUR-0092,Congenital Intestinal stricture- Conclusive,10000.0,11000.0
+SUR-0093,Intestinal Volvulous Release,11000.0,12100.0
+SUR-0094,Open Cholecystectomy Exp. OfC.B.D.,12600.0,13860.0
+SUR-0095,Partial Gastrectomy,11000.0,12100.0
+SUR-0096,Choledochoduodenostomy,17000.0,18700.0
+SUR-0097,Radical Surgery for Oral Malignancy,21000.0,23100.0
+SUR-0098,Lap. Vagotomy & Gastrojejunostomy,15000.0,16500.0
+SUR-0099,laproscopic Diaphrag Hernia,12000.0,13200.0
+SUR-0100,Cholecystostomy,8500.0,9350.0
+SUR-0101,Adrenalectomy,14000.0,15400.0
+SUR-0102,Gastrocystostomy,12100.0,13310.0
+SUR-0103,Hemicolectomy (Rt or Lt) -Surgery,14000.0,15400.0
+SUR-0104,Anterior Resection,19300.0,21230.0
+SUR-0105,Hartman Procedure,14000.0,15400.0
+SUR-0106,Laprosc.pic Fundoplication,15650.0,17215.0
+SUR-0107,Imperf.rated Anus-Pulled Abdomino Perianal,11800.0,12980.0
+SUR-0108,Partial ?r T.tal Pancreatectomy,20500.0,22550.0
+SUR-0109,Total Pelvic Excentration,22000.0,24200.0
+OBG-0001,Polypectomy Curettage,3700.0,4070.0
+OBG-0002,Aspiration of Ovarian Cyst,3000.0,3300.0
+OBG-0003,Removal of Suture,1350.0,1485.0
+OBG-0004,Hysteroscopy Diagnotic,2900.0,3190.0
+OBG-0005,Removal of IUD (Intra uterine),1650.0,1815.0
+OBG-0006,Shirodkar Suture,3000.0,3300.0
+OBG-0007,laparoscopy (Not Infertility Investigations-exploration,3700.0,4070.0
+OBG-0008,D&C/ERPC,3000.0,3300.0
+OBG-0009,Douglas Pouch Abcess Drainage,3150.0,3465.0
+OBG-0010,Excision of Barttiolin Cyst,3575.0,3933.0
+OBG-0011,Removal of IUD ( Extra uterine) laparoscopic,6500.0,7150.0
+OBG-0012,Hysteroscopy witti Procedure,5500.0,6050.0
+OBG-0013,Oophorectomy,7350.0,8085.0
+OBG-0014,Mcdonai Suture,2400.0,2640.0
+OBG-0015,Cervical Encirculage,2950.0,3245.0
+OBG-0016,Posterior Colpoperrineorraphy,6300.0,6930.0
+OBG-0017,Amputation of Cervix,5700.0,6270.0
+OBG-0018,Anterior Colpoperrineorrahphy,6500.0,7150.0
+OBG-0019,Vaginal / Perineal Repair,4000.0,4400.0
+OBG-0020,Normal Delivery,4500.0,4950.0
+OBG-0021,Manchester Repair,6000.0,6600.0
+OBG-0022,Ventro Suspension,4500.0,4950.0
+OBG-0023,Ovarian Cystectomy Surgery,8000.0,8800.0
+OBG-0024,Salpingectomy / Salpingostomy,5700.0,6270.0
+OBG-0025,lap. Ovarian Cystectomy,11350.0,12485.0
+OBG-0026,Radical Hysterectomy,21000.0,23100.0
+OBG-0027,Strasimmams,10200.0,11220.0
+OBG-0028,Ceasarian Section,9300.0,10230.0
+OBG-0029,Excision of Tubal (Ectopic Pregnancy) lap,9500.0,10450.0
+OBG-0030,Hysterectomy (Vaginal or Abdominal),11000.0,12100.0
+OBG-0031,Myomectomy Abdominal,10000.0,11000.0
+OBG-0032,Tuboplasty,12000.0,13200.0
+OBG-0033,Recurrent Myomectomy,16500.0,18150.0
+OBG-0034,Caesarian Section Twins,12000.0,13200.0
+OBG-0035,Vaginal IUFD Delivery,5500.0,6050.0
+OBG-0036,C.S.IUFD Delivery,10000.0,11000.0
+OBG-0037,Simple Vulvectomy,7900.0,8690.0
+OBG-0038,Abdominal Panhysterectomy,18000.0,19800.0
+OBG-0039,Recurrent Ovarian Tumour,16500.0,18150.0
+OBG-0040,Repair of Vesico - Vaginal Fistula,13800.0,15180.0
+OBG-0041,Repair of Recto- Vaginal Fistula,13800.0,15180.0
+OBG-0042,Ceasarian Section with Abdominal Hysterectomy,15000.0,16500.0
+OBG-0043,Radical vulvectomy,13800.0,15180.0
+QBG-0044,Ceasarian Section-Recurrent,10000.0,11000.0
+OBG-0045,Fothergill Operation,9300.0,10230.0
+OBG-0046,tap. Hysterectomy/Myomectomy,11550.0,12705.0
+OBG-3047,Abdominal Sling for Prolapse,28300.0,31130.0
+OBG-0048,Classical Repair,10300.0,11330.0
+ENT-0001,Direct laryngoscopy,3500.0,3850.0
+ENT-0002,Antral Washout,1900.0,2090.0
+ENT-0003,Excision of Uvula,2640.0,2904.0
+ENT-0004,Nasal Cauterization for Epistaxis,1650.0,1815.0
+ENT-0005,Partial Inferior Turbinectomy (LJnilateral),3300.0,3630.0
+ENT-0006,Suction Clearance Ears,1900.0,2090.0
+ENT-0007,"Bilateral linear Caute, Inferior Turbinate",2640.0,2904.0
+ENT-0008,Removal of Foreign Body from Ear G.A.,1550.0,1705.0
+ENT-0009,Nasopharngoscopy with Biopsy,2760.0,3036.0
+ENT-0010,Nasopharngoscopy without Biopsy,2205.0,2426.0
+ENT-0011,Myringotomy & Grommet Tube Insertion (Bilateral),3000.0,3300.0
+ENT-0012,Excision of lumps from Neck & Head-G.A.,3300.0,3630.0
+ENT-0013,Bronchoscopy,3400.0,3740.0
+ENT-0014,Aural Polypectomy (Unilateral),3300.0,3630.0
+ENT-0015,Cordal Nodule of Benign Tumour from the Vocal Cord,9900.0,10890.0
+ENT-0016,Adenoidectomy,3000.0,3300.0
+ENT-0017,SMD,1980.0,2178.0
+ENT-0018,Drainage of Abscess Neck,2300.0,2530.0
+ENT-0019,Drainage of Quinsy,2200.0,2420.0
+ENT-0020,Nasal Polypectomy,3675.0,4043.0
+ENT-0021,Myringotomy & Grommet Tube Insertion ( Unilateral!),2300.0,2530.0
+ENT-0022,Tonsillectomy (500 for laser to be added),3250.0,3575.0
+ENT-0023,Reduction of Fracture Nasal Bone,2475.0,2723.0
+ENT-0024,Foreign Body Oesophagus,2970.0,3267.0
+ENT-0025,Bronctioscopy (Foreign Body Removal from Trachea),3900.0,4290.0
+ENT-0026,SMR Submucus Resection,5250.0,5775.0
+ENT-0027,Tracheostomy,4400.0,4840.0
+ENT-0028,Simple Mastoidectomy,5500.0,6050.0
+ENT-0029,Intra Nasal Antrostomy,3500.0,3850.0
+ENT-0030,Radical Mastoidectomy,12600.0,13860.0
+ENT-0031,Septoplasty,5500.0,6050.0
+ENT-0032,Oro-Antral Fistula,6000.0,6600.0
+ENT-0033,Cordopexy,5500.0,6050.0
+ENT-0034,Functional Endoscopy Sinus Surgery Grade 1 (F.E.S.S.),4500.0,4950.0
+ENT-0035,laser Assited Uveioplatopiasty (lAUP),6000.0,6600.0
+ENT-0036,Microlaryngoscopy with Procedure,6000.0,6600.0
+ENT-0037,Caldwell- lUC Operation,5775.0,6353.0
+ENT-0038,Functional Endoscopy Sinus Surgery Grade 2 (F.E.S.S.),6200.0,6820.0
+ENT-0039,Functional Endoscopy Sinus Surgery Grade 3 (F.E.S.S.),7900.0,8690.0
+ENT-0040,Correction of Deviated Nasal Septum,7000.0,7700.0
+ENT-0041,Tympanoplasty,9450.0,10395.0
+ENT-0042,External Frontal Operation,7350.0,8085.0
+ENT-0043,External Ethmoid Operation,9450.0,10395.0
+ENT-0044,Stapedectomy,9975.0,10973.0
+ENT-0045,Operation on Vocal Cord E.G. Woodman,12100.0,13310.0
+ENT-0046,Arytenoidectomy,11550.0,12705.0
+ENT-0047,Radical Mastoidectomy + Tympanoplasty,13000.0,14300.0
+ENT-0048,Operation for Malignant Tumour in ENT,15000.0,16500.0
+OPT-0001,Chalazion Removal L.A.,650.0,715.0
+OPT-0002,Ptergium Removal L.A.,2400.0,2640.0
+OPT-0003,Ectropion,2750.0,3025.0
+OPT-0004,Corneal Graft Suture Removal,3300.0,3630.0
+OPT-0005,Tarsorraphy,2400.0,2640.0
+OPT-0006,taser Photocoagulation / Eye,1650.0,1815.0
+OPT-0007,Irridectomy,6600.0,7260.0
+OPT-0008,Dacryo Cystectomy,2500.0,2750.0
+OPT-0009,Enucleation,3600.0,3960.0
+OPT-0010,tacrimal Canaliculum Probing,1650.0,1815.0
+OPT-0011,lacrimal Gland Biopsy,2970.0,3267.0
+OPT-0012,Pterygium G.A.,3300.0,3630.0
+OPT-0013,Enucleation with Implant G.A.,6000.0,6600.0
+OPT-0014,Irridectomy Laser,5500.0,6050.0
+OPT-0015,Capsulectomy taser,5500.0,6050.0
+OPT-0016,Biopsy of Orbital Tumours,5775.0,6353.0
+OPT-0017,Mucous Mem. Grafting/ Trichiasis,6300.0,6930.0
+OPT-0018,Corneal Dermoid Excision,6300.0,6930.0
+OPT-0019,Dacro Cystorliinostomy,7500.0,8250.0
+OPT-0020,Squint Correction,8925.0,9818.0
+OPT-0021,Capsulectomy,5775.0,6353.0
+OPT-0022,Recurrent Pterygium + SR.100. for Graft,5000.0,5500.0
+OPT-0023,Cyclodialysis,8100.0,8910.0
+OPT-0024,Repair of Corneal Laceration,6825.0,7508.0
+OPT-0025,Ptosis Repair,6300.0,6930.0
+OPT-0026,Cataract Extraction without IOL,5950.0,6545.0
+OPT-0027,Lacrimal Canaliculum Reconst,7500.0,8250.0
+OPT-0028,Anterior Vitrectomy,7350.0,8085.0
+OPT-0029,Intraocular FB Removal,6500.0,7150.0
+OPT-0030,Glaucoma Operation Trabe,6600.0,7260.0
+OPT-0031,Recurrent Ptosis,6825.0,7508.0
+OPT-0032,Explo/Excision Orbital Tumour,9000.0,9900.0
+OPT-0033,Secondary Insertion of 1.0.L.,5500.0,6050.0
+OPT-0034,Posterior Vitrectomy,11300.0,12430.0
+OPT-0035,Lamellar Keratoplasty,13650.0,15015.0
+OPT-0036,Corneal Graft (p. Keratoplasty),17000.0,18700.0
+OPT-0037,Cataract Extraction with IOL,8050.0,8855.0
+URO-0001,Diagnostic Cystoscopy,2650.0,2915.0
+URO-0002,Cystourethroscopy,4000.0,4400.0
+URO-0003,Cystoscopy & Biopsy,3500.0,3850.0
+URO-0004,Meatotomy,2550.0,2805.0
+URO-0005,Cystoscopy + Retrograde,3300.0,3630.0
+URO-0006,Cystoscopy + Insertion of DJ stent,3300.0,3630.0
+URO-0007,Cystoscopy + Removal of DJ stent,2000.0,2200.0
+URO-0008,True Cut Needle Biopsy- Cystoscopy,3500.0,3850.0
+URO-0009,Testicular Biopsy,3300.0,3630.0
+URO-0010,ESWt-Small stone,5500.0,6050.0
+URO-0011,ESWLMedium stone,6500.0,7150.0
+URO-0012,ESWt-targe stone,8000.0,8800.0
+URO-0013,ESWL-Any Additional Session,1200.0,1320.0
+URO-0014,Percutaneous Nephrostomy,4750.0,5225.0
+URO-0015,laparoscopic Varicocele,6500.0,7150.0
+URO-0016,Meatoplasty,3500.0,3850.0
+URO-0017,Repair of Hypospadias (Simple),5500.0,6050.0
+URO-0018,Repair of Hypospadias (1st stage),6600.0,7260.0
+URO-0019,Repair of Hypospadias (2nd stage),9350.0,10285.0
+URO-0020,Visual Internal Urethrotomy (VIU),6000.0,6600.0
+URO-0021,Cystoscopy + Optical Urethroscopy,7500.0,8250.0
+URO-0022,Cystoscopy + Diathermy of Bladder Carcinoma,9000.0,9900.0
+URO-0023,Open Prostectomy,15000.0,16500.0
+URO-0024,Cystolithopaxy,6650.0,7315.0
+URO-0025,Orchidopexy for Undescended one side,6500.0,7150.0
+URO-0026,Orcliidopexy for Undescended (Testes- Bilateral),8500.0,9350.0
+URO-0027,Simple Orchidectomy,4800.0,5280.0
+URO-0028,Haemotocele,4700.0,5170.0
+URO-0029,Hydrocelectomy,4750.0,5225.0
+URO-0030,Excision of Spermatocele,5670.0,6237.0
+URO-0031,ligation Varicocele (One Side) surgery,4750.0,5225.0
+URO-0032,ligation Varicocele (Both Side),6500.0,7150.0
+URO-0033,lithopaxy End.Blader stone,4200.0,4620.0
+URO-0034,Radical Orchidectomy,7500.0,8250.0
+URO-0035,Suprapubic Cystostomy for stone,7700.0,8470.0
+URO-0036,Diverticulum (Excision of Bladder),7700.0,8470.0
+URO-0037,Ureteroscopy + stone manipulation (Add 700 for laser),8050.0,8855.0
+URO-0038,Stricture Anterior Urethra,7750.0,8525.0
+URO-0039,Stricture Posterior lirethra,12150.0,13365.0
+URO-0040,T.U.R. of Bladder (Tumours),12700.0,13970.0
+URO-0041,Partial Cystectomy,13850.0,15235.0
+URO-0042,Pyeloplasty,12000.0,13200.0
+URO-0043,Nephrolithotomy,11000.0,12100.0
+URO-0044,Partial Excision of Tumours of the Kidney and Bladder,12100.0,13310.0
+URO-0045,Nephrectomy (Simple),9500.0,10450.0
+URO-0046,Pyelolithotomy,12000.0,13200.0
+URO-0047,Ureterolithotomy,9300.0,10230.0
+URO-0048,Perinephric Abscess,9765.0,10742.0
+URO-0049,Radical Nephrectomy,21000.0,23100.0
+URO-0050,Nephrouretectomy,20000.0,22000.0
+URO-0051,Cystourethroscopy and T.U.R. Prostatectomy,13125.0,14438.0
+URO-0052,Resection and Anastomosis or Reimplantation of Urether,13200.0,14520.0
+NEU-0001,steriotactic Biopsy Brain,29400.0,32340.0
+NEU-0002,Laser Discectomy,17325.0,19058.0
+NEU-0003,Depressed Fracture of Skull & Decompression,13285.0,14614.0
+NEU-0004,Ventricular- Artrial Shunt,17325.0,19058.0
+NEU-0005,Ventricular- Peritoneal Shunt,17325.0,19058.0
+NEU-0006,Lumbar-Two Disc,16800.0,18480.0
+NEU-0007,Shunt for Hydrocephalus Including ttie Devices,20000.0,22000.0
+NEU-0008,Single Intracerebral Hameatoma Drinage Burrhole,13965.0,15362.0
+NEU-0009,Both Intracerebral Haematoma Drainage Burrhole,17325.0,19058.0
+NEU-0011,Microdiscectomy for Lumbar Disc Prolapse,17800.0,19580.0
+NEU-0012,Biopsy- Pineal Gland,18900.0,20790.0
+NEU-0013,"Biopsy-Pituitary Gland, Transphenoidal Approach",36750.0,40425.0
+NEU-0014,"Biopsy-Pituitary Gland, Unspecified Approach",36750.0,40425.0
+NEU-0015,Craniotomy & Craniectomy & Procedure for different lesions ( non Traumatic),23100.0,25410.0
+NEU-0016,"Craniotomy for Hemorrhage, other & Unspecified Intrcranial.following Injury",29400.0,32340.0
+NEU-0017,"Craniotomy for Hemorrhage, Subarachnoid, Subdural & Extradural, following Injury",29400.0,32340.0
+NEU-0018,Laminectomy for Stenosis,19800.0,21780.0
+NEU-0019,Lumbar Meningocele,10500.0,11550.0
+NEU-0020,Fracture Vertebrae without Prothesis,16800.0,18480.0
+NEU-0021,Brain Tumour Supratentorial,21525.0,23678.0
+NEU-0022,Brain Tumour Post Fossa,36750.0,40425.0
+NEU-0023,Pituitary Tumour,36750.0,40425.0
+NEU-0024,Cord Tumour,23100.0,25410.0
+NEU-0025,"Bypass, Vascular-Aorto-Subclavian-Carotid without Graft",36750.0,40425.0
+NEU-0026,"Bypass, Vascular-Peripheral Artery without Graft",33600.0,36960.0
+NEU-0027,Cranioplasty,23100.0,25410.0
+NEU-0028,Decompression- Trigeminal Nerve Root,42000.0,46200.0
+NEU-0029,Endarterectomy- other. Vessels. Head & Neck,36750.0,40425.0
+NEU-0030,Repair of Compound Skull Fracture,21000.0,23100.0
+NEU-0031,Cerebral Menings Repair,36750.0,40425.0
+NEU-0032,Aneurysm -Clipping without coils,36750.0,40425.0
+NEU-0033,Aneurysm- Repair (other),42000.0,46200.0
+NEU-0034,Cerebral Aneurysm,39900.0,43890.0
+NEU-0035,Endarterectomy Intracranial Vessels without coils,42000.0,46200.0
+CAR-0001,RT Heart CatherizaJion w/o Shunt Run,7000.0,7700.0
+CAR-0002,Cardiac Catherization (Corona^ Angiography),7000.0,7700.0
+CAR-0003,Permanent Pacemaker insertion without cost of Pacemaker,19300.0,21230.0
+CAR-0004,Cardiac Catherization Peadia,7500.0,8250.0
+CAR-0006,Thoracoscopy Diagnostic,8600.0,9460.0
+CAR-0007,PTCA sv without stent,16000.0,17600.0
+CAR-0008,PTCA SV + One stent (Normal stent),23500.0,25850.0
+CAR-0009,"PTCA SV + One stent (Drug Eluting), SR.12500 will be charged every other stent",30000.0,33000.0
+CAR-0010,PTCA DV without stent,22000.0,24200.0
+CAR-0011,PTCA DV + One stent (Drug Eluting) SR.12500 will be charged every other stent,35000.0,38500.0
+CAR-0012,PTCA TV without stent,30000.0,33000.0
+CAR-0013,"PTCA TV + One stent (Drug Eluting),SR.12500 will be charged every other stent",45000.0,49500.0
+CAR-0014,Intra Aortic Balloon Pump insertion (Procedure),3500.0,3850.0
+CAR-0015,Thoracoscopy Therapeutic,14500.0,15950.0
+CAR-0016,"Femoro Post Tibia, Bypass (Excluding Sythetic Bypass Graft)",25000.0,27500.0
+CAR-0017,Thoracotomy Evacutation of Hemothorax & Suturing of tung Blebs,29000.0,31900.0
+CAR-0018,Coronary Artery Bypass Grafting (CABG),45000.0,49500.0
+CAR-0019,Valve Replacement without Cost of Valve,50000.0,55000.0
+ORT-0001,Fracture Small Bones of Hand/ Foot +P0P,1320.0,1452.0
+ORT-0002,POP Simple Fracture w/o Displacement,1320.0,1452.0
+ORT-0003,POP Foot Deformity Correction,2640.0,2904.0
+ORT-0004,Skin and / or Skeletal Traction on Thoma Splint or Bobler Spine,1700.0,1870.0
+ORT-0005,Tendon Release of FingerM/rist t.A.,3575.0,3933.0
+ORT-0006,Excision of Olecranon Bursa,3575.0,3933.0
+ORT-0007,Reduction of Fracture or Dislocation and P.O.P.,1600.0,1760.0
+ORT-0008,Removal of Implants/Big Bones,4600.0,5060.0
+ORT-0009,Amputation of Finger^oe,2900.0,3190.0
+ORT-0010,Reduction of Fracture or Dislocation of Finger & Splintage in ER,1650.0,1815.0
+ORT-0011,Change of POP Under Anesthesia,2900.0,3190.0
+ORT-0012,L.A 2 K Wire Removal,800.0,880.0
+ORT-0013,Excision of Ganglion,3300.0,3630.0
+ORT-0014,G.A. 2 K Wire Removal,1500.0,1650.0
+ORT-0015,Tendon Shealth Splitting L.A.,6000.0,6600.0
+ORT-0016,Terminalization of Finger t.A,3500.0,3850.0
+ORT-0017,Removal of Implants/Small Bones,3800.0,4180.0
+ORT-0018,Repair of lacerated Wound not involving Tendon or Nerve t.A,2550.0,2805.0
+ORT-0019,Plaster Spica or dacket,4000.0,4400.0
+ORT-0020,Fracture of Coles,6000.0,6600.0
+ORT-0021,Close Reduction-Fracture Tibia,3800.0,4180.0
+ORT-0022,Close Reduction-Fracture Radius/Ulna,3800.0,4180.0
+ORT-0023,Carpal Tunnel Syndrome Operation,4400.0,4840.0
+ORT-0024,Sequestractomy of Small Bones,4300.0,4730.0
+ORT-0025,Close Reduction-Simple Fracture G.A.,2500.0,2750.0
+ORT-0026,Close Reduction-Disclocate Phalanges GA,1500.0,1650.0
+ORT-0027,Diagnostic Arthroscopy,3850.0,4235.0
+ORT-0028,One Repair of Flexor Tendon of Finger (Direct),6300.0,6930.0
+ORT-0029,Reconstruction of Amputated Finger without Graft,7350.0,8085.0
+ORT-0030,G.A. Mobilization of Frozen Slioulder,3100.0,3410.0
+ORT-0031,Capsulotomy of Finger Joints,4000.0,4400.0
+ORT-0032,"Arthroscopy Washout, Trimming. Removal of loose Body",5500.0,6050.0
+ORT-0033,Excision of lower End of Ulna,4400.0,4840.0
+ORT-0034,G.A. Bone Swelling Biopsy without Flistopath,3200.0,3520.0
+ORT-0035,Excision of Head of Radius,3750.0,4125.0
+ORT-0036,Repair of Ruptured Superfcial ligament Knee or Ankle,7150.0,7865.0
+ORT-0037,More Repair of Flexor Tendon of Finger (Direct),8400.0,9240.0
+ORT-0038,Repair of Flexor Tendon of Finger with Graft (Direct),11025.0,12128.0
+ORT-0039 ,Digital Nerve Repair,12000.0,13200.0
+ORT-0040,Correction of Hallux Valgus,6650.0,7315.0
+ORT-0041,Arthrodeasis of the Big Toe,6650.0,7315.0
+ORT-0042,Achilles Tendon Lengtti,6000.0,6600.0
+ORT-0043,"O.R.I.F for Dislocation of Ankle, Wrist and Elbow",12000.0,13200.0
+ORT-0044,Nerve Suture,15000.0,16500.0
+ORT-0045,Correction of Hand & Finger Deformity,11550.0,12705.0
+ORT-0046,Cruciate ligament Reconstruction without Prothesis,11000.0,12100.0
+ORT-0047,Arthroscopy Menisectomy,8000.0,8800.0
+ORT-0048,ACl Reconstruction of Knee ligament,11000.0,12100.0
+ORT-0049,Operation of Recurrent Dislocation Shoulder,12100.0,13310.0
+ORT-0050,Congenital Dislocation,12100.0,13310.0
+ORT-0051,Synovectomy (Open),9450.0,10395.0
+ORT-0052,Bone Grafting,8400.0,9240.0
+ORT-0053,Congenital Dislocation of Hip (CHD),21000.0,23100.0
+ORT-0054,O.R.I.F of Fracture of Tibia & Fibula,12000.0,13200.0
+ORT-0055,Amputation of Long Bones (Trauma/Congenital),19000.0,20900.0
+ORT-0056,Excision of Cyst & Bone Graft,15000.0,16500.0
+ORT-0057,O.R.I.F. of Fracture Pelvis without prosthesis,15000.0,16500.0
+ORT-0058,Osteotomy,9050.0,9955.0
+ORT-0059,Travera Band for Cruciate Ligament Reconstruction-PT/IP,12870.0,14157.0
+ORT-0060,Core Tax Band for Cruciate ligament Reconstruction-PT/IP,12870.0,14157.0
+ORT-0061,High Tibial Osteotomy,13750.0,15125.0
+ORT-0062,Laminectormy & Lumbar Disectomy Recurrent One Level,15000.0,16500.0
+ORT-0063,Lumbar / Cervical Disectomy One Level,14300.0,15730.0
+ORT-0064,CLR w/ Ligament Patella Band + P.T./I.P.,14200.0,15620.0
+ORT-0065,Excision of Cenzical Rib,11550.0,12705.0
+ORT-0066,Laminectomy- Laser Conclusive,16800.0,18480.0
+ORT-0067,Lumbar Disc Prolapse- Recurrent,18900.0,20790.0
+ORT-0068,O.R.I.F. & Partial or Total Excision of Patella without prothesis,8900.0,9790.0
+ORT-0069,Major doints Disarticulation,17850.0,19635.0
+ORT-0070,Excision of Malignant Tumors & Bone Graft,16500.0,18150.0
+ORT-0071,Decompression of Spine w/ Arthrodesis,31500.0,34650.0
+ORT-0072,Partial Knee Replacement (Hermiarthroplasty),34000.0,37400.0
+ORT-0073,Total Knee Replacement -Unilateral,38600.0,42460.0
+ORT-0074,Total Hip Replacement (Unilateral),37800.0,41580.0
+ORT-0075,Hind Quarter Amputation,16800.0,18480.0
+ORT-0076,Lumbar Laminectormy one Level,16800.0,18480.0
+ORT-0077,Cenrical laminectormy one Level,18000.0,19800.0
+ORT-0078,"O.R.I.F. for Comminuted or Mai-United Fracture of the Femur, Tibia. Humerus without prothesis",13900.0,15290.0
+ORT-0079,Arthrodesis (Knee/HIP/TB),18900.0,20790.0
+ORT-0080,Arthroplasties,22680.0,24948.0
+Noted: All Ortl,"lopeadlc Surgeries implants, plates, screws.",,0.0
+"nails, int/ext fixations are not included in the PD prices.",,,0.0
+VAS-0001,Peripheral Angioplasty without stent,9850.0,10835.0
+VAS-0002,Arterio Venous Fistula (AV Fistula),5500.0,6050.0
+VAS-0003,Thoracoscopic Sympathectomy (Unilateral),8050.0,8855.0
+VAS-0004,Insertion of Permicath or Portacath (Procedure Only),5350.0,5885.0
+VAS-0005,Insertion of IVC Filter (Procedure Only),10700.0,11770.0
+VAS-0006,Radio Frequency Ablation for Vericose Veins ( Unilateral),14000.0,15400.0
+VAS-0007,Radio Frequency Ablation for Vericose Veins ( Bilateral),15900.0,17490.0
+VAS-0008,Stripping Operation for V.V. (One Side),9000.0,9900.0
+VAS-0009,Superficialization of Vein,5500.0,6050.0
+VAS-0010,Femoral Embolectomy,11200.0,12320.0
+VAS-0011,Tlioracoscopic Sympathectomy (Bilateral),11200.0,12320.0
+VAS-0012,Midtarsal Amputation,5500.0,6050.0
+VAS-0013,Arterio Venous Graft (for Dialysis),8950.0,9845.0
+VAS-0014,Stripping Operation for V.V. (Bilateral),12000.0,13200.0
+VAS-0015,Peripheral Aneurysm (Excision & Repair),14025.0,15428.0
+VAS-0016,Excision of Haemangioma (Small),8925.0,9818.0
+VAS-0017,Thoracic Outlet Syndrome,13500.0,14850.0
+VAS-0018,Femoro-Popleteal Bypass,20570.0,22627.0
+VAS-0019,Carotid Body Tumour,16800.0,18480.0
+VAS-0020,Carotid Endarterectomy,19700.0,21670.0
+VAS-0021,Excision of Haemangioma (Large),14025.0,15428.0
+VAS-0022,Aortic Bypass,28050.0,30855.0
+VAS-0023,Femoro-Distal Bypass,22450.0,24695.0
+VAS-0024,Abdominal Aortic Aneurysm,28050.0,30855.0
+VAS-0025,Aorto Bifemoral Bypass Graft,28050.0,30855.0
+VAS-0026,Below Knee Amputation,17000.0,18700.0
+VAS-0027,Above Knee Amputation,19000.0,20900.0
+DNT-0001,I & D FACIAL. ABSCESS l.A.,1320.0,1452.0
+DNT-0002,REMOVAL. OF ARCH BARS & WIRES,6600.0,7260.0
+DNT-0003,REMOVAL OF FACIAL FOREIGN BODIES,6600.0,7260.0
+DNT-0004,CLOSURE OF FACIAL LACERATION,6600.0,7260.0
+DNT-0005,EXCISION OF MINOR SALIVARY GLAND ( MUCOCELE ),6600.0,7260.0
+DNT-0006,REMOVAL OF SALIVARY STONE,6600.0,7260.0
+DNT-0007,FRENECTOMY LIP/TONGUE G.A.,6600.0,7260.0
+DNT-0008,l&DFACIAL ABSCESS G.A.,8250.0,9075.0
+DNT-0009,CLOSED REDUCTION OF NASAL BONE FRACTLJRES,10450.0,11495.0
+DNT-0010,CLOSURE OF DEEP/MULTIPLE FACIAL LACERATIONG.A,10450.0,11495.0
+DNT-0011,EXCISION OF LOCALIZED ORAL TUMOR WITH HISTOPATHOLOGY,10450.0,11495.0
+DNT-0012,CLOSED REDUCTION OF MIDFACE FRACTURES,13200.0,14520.0
+DNT-0013,CLOSURE OF ORO-ANTRAL FISTULA,13200.0,14520.0
+DNT-0014,ORIF FRONTAL BONE FRACTURES,19800.0,21780.0
+DNT-0015,ORIF - MIDFACE FRACTURES - UNILATERAL,19800.0,21780.0
+DNT-0016,ORIF - MANDIBULAR CONDYLE FRACTURE,19800.0,21780.0
+DNT-0017,CLOSED REDUCTION OF MANDIBULAR FRACTURE & IMF,19800.0,21780.0
+DNT-0018,REDUCTION & FIXATION OF ALVEOLAR BONE FRACTURE,19800.0,21780.0
+DNT-0019,REMOVAL OF FACIAL / MANDIBULAR PLATES,19800.0,21780.0
+DNT-0020,EXCISION OF SUBLINGUAL GLAND,19800.0,21780.0
+DNT-0021,"EXCISION OF FACIAL BENIGN CUTANEOUS NEOPLASM + HISTOP, G.A.",19800.0,21780.0
+DNT-0022,EXCISION OF FACIAL CYST G.A.,19800.0,21780.0
+DNT-0023,ENUCULATION OF MAXILLARY / MANDIBULAR CYST,19800.0,21780.0
+DNT-0024,ORIF - MIDFACE FRACTURES - BI-LATERAL,26400.0,29040.0
+DNT-0025,ORIF ORBITAL FLOOR FRACTURE ( BLOW OUT ),26400.0,29040.0
+DNT-0026,ORIF - MANDIBULAR FRACTURE - UNILATERAL,26400.0,29040.0
+DNT-0027,MIDFACE OSTEOTOMY LE FORT 1,26400.0,29040.0
+DNT-0028,SUPERFICIAL PAROTIDECTOMY,26400.0,29040.0
+DNT-0029,PRIMARY REPAIR OF CLEFT LIP OR PALATE,26400.0,29040.0
+DNT-0030,SECONDARY REPAIR OF CLEFT LIP OR PALATE,26400.0,29040.0
+DNT-0031,ORBITAL RECONSTRUCTION,33000.0,36300.0
+DNT-0032,ORIF - MANDIBULAR FRACTURE - BILATERAL,33000.0,36300.0
+DNT-0033,FACIAL BONE GRAFTING & RECONSTRUCTION,33000.0,36300.0
+DNT-0034,MIDFACE OSTEOTOMY LE FORT II,33000.0,36300.0
+DNT-0035,RECONSTRUCTION OF MAXILLARY CLEFT - UNILATERAL,33000.0,36300.0
+DNT-0036,MANDIBULAR OSTEOTOMY,33000.0,36300.0
+DNT-0037,EXCISION OF PAROTID GLAND,33000.0,36300.0
+DNT-0038,REVISION OF CLEFT LIP OR PALATE REPAIR,33000.0,36300.0
+DNT-0039,MANDIBULAR CONDYLECTOMY,33000.0,36300.0
+DNT-0040,EXCISION OF BENIGN TUMOR MANDIBLE OR MAXILLARY BONE,33000.0,36300.0
+DNT-0041,MIDFACE OSTEOTOMY LE FORT III,46200.0,50820.0
+DNT-0042,RECONSTRUCTION OF MAXILLARY CLEFT - BILATERAL,46200.0,50820.0
+DNT-0043,EXCISION OF MALIGNANT TUMOR MANDIBLE OR MAXILLARY BONE,46200.0,50820.0
+FMSUR-3313,LAP. GASTRIC BYPASS ,25000.0,
+CAR-0021,Coronary Artery Bypass Grafting  w/o Cath (For referral cases only),36000.0,36000.0
+NEP-0060,"Renal dialysis session (only for Umrah, Visit Visa, Referred not eligible)",600.0,

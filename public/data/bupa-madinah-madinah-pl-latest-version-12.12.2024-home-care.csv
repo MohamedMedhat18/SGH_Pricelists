@@ -1,0 +1,62 @@
+Service agreed Code,Service Description,NPHIES Code,Gross Price,"Service
+Type",DISCOUNT,Unified codes,Unified descriptions
+HC01,"Home visit ,consultant",83700-00-00,300,HC,0.25,HHC-0001,HHC Consultant
+HC02,"Home visit ,specialist",83700-00-00,250,HC,0.25,HHC-0003,HHC Registrar
+HC03,"Home visit ,GP",83700-00-00,200,HC,0.25,HHC-0004,HHC General Practitioner
+HC04,"Home physiotherapy ,daily, one month",83700-00-00,2400,HC,0.25,HHC-0108,"Home physiotherapy ,daily, one month"
+HC05,"Home physiotherapy , Daily , one week",83700-00-00,675,HC,0.25,HHC-0109,"Home physiotherapy , Daily , one week"
+HC06,"Home physiotherapy ,one session",83700-00-00,120,HC,0.25,HHC-0071,HHC Physiotherapy – Single Session Per Visit
+HC07,"Home nursing care ,daily ,one month",83700-00-00,4000,HC,0.25,HHC-0110,"Home nursing care ,daily ,one month"
+HC08,"Home nursing care , one Day",83700-00-00,200,HC,0.25,FMHC-0001,Home Visit- Complete Nursing Care
+HC09,"Home nursing care and medical supervision ,daily , one month",83700-00-00,6000,HC,0.25,HHC-0111,"Home nursing care and medical supervision ,daily , one month"
+HC10,"Home nursing care and medical supervision , one Day",83700-00-00,350,HC,0.25,HHC-0112,"Home nursing care and medical supervision , one Day"
+HC11,"Home nursing and bedsore care  with medical supervision ,daily , one month",83700-00-00,8000,HC,0.25,HHC-0113,"Home nursing and bedsore care  with medical supervision ,daily , one month"
+HC12,"Home nursing and bedsore care  with medical supervision ,one Day",83700-00-00,450,HC,0.25,HHC-0114,"Home nursing and bedsore care  with medical supervision ,one Day"
+HC13,"Home nursing care , physiotherapy and medical supervision ,daily, one month",83700-00-00,6000,HC,0.25,HHC-0115,"Home nursing care , physiotherapy and medical supervision ,daily, one month"
+HC14,"Home nursing care , physiotherapy and medical supervision  one Day",83700-00-00,350,HC,0.25,HHC-0116,"Home nursing care , physiotherapy and medical supervision  one Day"
+HC15,"Home nursing care  twice daily , physiotherapy and medical supervision ,daily,
+one month",83700-00-00,12000,HC,0.25,HHC-0117,"Home nursing care  twice daily , physiotherapy and medical supervision ,daily,
+one month"
+HC16,"Home nursing care  twice daily , physiotherapy and medical supervision ,one Day",83700-00-00,600,HC,0.25,HHC-0118,"Home nursing care  twice daily , physiotherapy and medical supervision ,one Day"
+HC17,"Home nursing care  twice daily , nebulization physiotherapy and medical supervision ,daily, one month",83700-00-00,14000,HC,0.25,HHC-0119,"Home nursing care  twice daily , nebulization physiotherapy and medical supervision ,daily, one month"
+HC18,"Home nursing care  twice daily , nebulization physiotherapy and medical
+supervision ,one Day",83700-00-00,700,HC,0.25,HHC-0120,"Home nursing care  twice daily , nebulization physiotherapy and medical
+supervision ,one Day"
+HC19,"IV Pakage ,2 Visits per day for 7 days",83700-00-00,1300,HC,0.25,HHC-0121,"IV Pakage ,2 Visits per day for 7 days"
+HC20,"IV Pakage ,2 Visits per day for 3 days",83700-00-00,600,HC,0.25,HHC-0122,"IV Pakage ,2 Visits per day for 3 days"
+HC21,"IV Pakage ,2 Visits per day for one Day",83700-00-00,200,HC,0.25,HHC-0123,"IV Pakage ,2 Visits per day for one Day"
+HC22,"Home visit ,GP + Nurse",83700-00-00,270,HC,0.25,HHC-0065,HHC Doctor Visit - GP and Nurse Per visit
+HC23,"Home visit ,laboratory services",83700-00-00,108,HC,0.25,FMHC-0010,Home Visit - Laboratory Service (Transportation + Sample Collection + Disposables)
+HC24,"Home visit ,physiotherapist",83700-00-00,162,HC,0.25,HHC-0124,"Home visit ,physiotherapist"
+HC25,"Home visit ,nursing initial assessment",83700-00-00,90,HC,0.25,HHC-0125,"Home visit ,nursing initial assessment"
+HC26,Nursing home visit for diabetic patient,83700-00-00,90,HC,0.25,HHC-0126,Nursing home visit for diabetic patient
+HC27,"Home visit ,nursing services",83700-00-00,160,HC,0.25,FMHC-0003,Home Visit- Nurse (Transportation + Providing Service)
+HC28,"Home visit ,vaccination,doctor and nurse",83700-00-00,180,HC,0.25,HHC-0127,"Home visit ,vaccination,doctor and nurse"
+HC29,Home based vaccination,83700-00-00,90,HC,0.25,HHC-0034,HHC Vaccination - Personalized Per dose
+HC30,"Home visit ,IV/IM/SC injection",83700-00-00,90,HC,0.25,HHC-0036,HHC Injection (IM/SC) nurse Per visit
+HC31,"Home visit ,IV Fluid therapy per hour (SR 20 for each extra hour)",83700-00-00,105,HC,0.25,HHC-0035,HHC IV Therapy nurse Per visit
+HC32,"Home visit ,uretheral catheterization and bag changes",83700-00-00,160,HC,0.25,HHC-0050,HHC Urinary Catheter replacement Per visit
+HC33,"Home visit ,Urinary bladder catheterization",83700-00-00,120,HC,0.25,FMHC-0012,Urinary Bladder Catheterization (Service + Disposables + Kits)
+HC34,"Home visit , Nasogastric tube insertion with procedure",83700-00-00,160,HC,0.25,HHC-0056,HHC Tube Feeding Support (NGT/Gastrostomy) Per visit
+HC35,"Home visit ,centrel line flushing/care",83700-00-00,95,HC,0.25,FMHC-0015,Central Line Flushing/Care (Service + Disposables + Kits)
+HC36,"Home visit , small to medium dressing",83700-00-00,40,HC,0.25,HHC-0128,"Home visit , small to medium dressing"
+HC37,"Home visit , large ( more than 10 cm) multiple dressing (more than 5 sites)",83700-00-00,320,HC,0.25,HHC-0129,"Home visit , large ( more than 10 cm) multiple dressing (more than 5 sites)"
+HC38,"Home visit ,large dressing (more than 10cm)",83700-00-00,90,HC,0.25,FMHC-0028,Large Dressing / Area (Service + Disposables + Kits)
+HC39,"Home visit , fleet enema",83700-00-00,90,HC,0.25,FMHC-0024,Fleet Enema (Service + Disposables + Kits)
+HC40,"Home visit , cleansing enema",83700-00-00,160,HC,0.25,FMHC-0023,Cleansing Enema (Service + Disposables + Kits)
+HC41,"Home visit , trachesostomy tube care",83700-00-00,90,HC,0.25,HHC-0057,HHC Tracheostomy Care Per visit
+HC42,Home visit for bladder washout by Nurse,83700-00-00,90,HC,0.25,FMHC-0013,Bladder Washout (Service + Disposables + Kits)
+HC43,Home visit for bladder washout by urologist,83700-00-00,325,HC,0.25,HHC-0130,Home visit for bladder washout by urologist
+HC44,"Home visit ,Monitoring vital signes PER Hour",83700-00-00,65,HC,0.25,FMHC-0029,Vital Sign
+HC45,"Home visit ,Oxygen therapy PER Hour",83700-00-00,80,HC,0.25,FMHC-0022,Oxygen Inhalation /Hour (Service + Disposables + Kits)
+HC46,"Home visit ,Nebulization and suction",83700-00-00,150,HC,0.25,FMHC-0017,Nebulization & Suctioning (Service + Disposables + Kits)
+HC47,C P T Session,83700-00-00,95,HC,0.25,HHC-0131,C P T Session
+HC48,BURN DRESSING GRADE 1(HANDS-FACE,83700-00-00,60,HC,0.25,HHC-0058,HHC Burn Care - Small Per visit
+HC49,BURN DRESSING GRADE 2(ARM-FOREARMS-LEG),83700-00-00,90,HC,0.25,FMHC-0046,Dressing Burn 2Nd Degree
+HC50,BURN DRESSING GRADE 3(THIGH-CHEST-ABDOMEN),83700-00-00,180,HC,0.25,FMHC-0045,Dressing Burn 3Rd Degree
+HC51,BURN DRESSING GRADE 4(WHOLE BACK),83700-00-00,325,HC,0.25,FMHC-0044,Dressing Burn 4Th Degree
+HC52,Post natal care (mother & baby),83700-00-00,90,HC,0.25,HHC-0132,Post natal care (mother & baby)
+HC53,Post delivery Gym 6 sessions,83700-00-00,430,HC,0.25,HHC-0133,Post delivery Gym 6 sessions
+HC54,Post delivery Gym 12 sessions,83700-00-00,720,HC,0.25,HHC-0134,Post delivery Gym 12 sessions
+HC55,Home hemodialysis PER session,83700-00-00,675,HC,0.25,HHC-0096,Home Hemodialysis (HHD) Per session
+HC56,Home hemodialysis PER session if 5 session or more /week,83700-00-00,610,HC,0.25,HHC-0135,Home hemodialysis PER session if 5 session or more /week

@@ -1,0 +1,39 @@
+Item Code,item description ,Price,Disc,Length of saty,PKG,SBS
+ICU-Day,"ICU, CCU, PICU",6200,0.25,1.0,PKG,83610-03-80
+R-Day,"Room and board package, Hospital facility, Adult and Pediatrics",3000,0.25,1.0,PKG,83610-00-80
+NICU-Day,NICU,6700,0.25,1.0,PKG,83700-00-00
+NEP-0045,CRRT(CVVHD) (12 HOURS) flat rate inclusive except blood and blood derivative,6250,0,,,13882-00-00
+NEP-0002,Hemodialysis 1 session flat rate inclusive except blood and blood derivative,850,0,,,13882-00-01
+ANA-0040,Ventilation,400 SR,0,,,13882-00-00
+,,,,,,
+,,,,,,
+Perdiem,,,,,,
+Inclusions,,,,,,
+ Consultations and doctor care,,,,,,
+ Nursing care and services,,,,,,
+ Daily consumable and disposables,,,,,,
+ Ordinary daily medication,,,,,,
+ Room and board,,,,,,
+ Ordinary daily investigation,,,,,,
+ Tube’s care,,,,,,
+ Ordinary wound care,,,,,,
+" Syringe pumps, electronic monitor, oxygen, pulse oximeter, blood pressure monitoring",,,,,,
+ Phototherapy,,,,,,
+,,,,,,
+Exclusions,,,,,,
+ Take Home Medicine (THM),,,,,,
+ High-cost medicines. Total daily medicine supply more than SR 350,,350 SR,,,,
+ Chemotherapeutic drugs along with its preparation & administration.,,,,,,
+ Total Parenteral Nutrition (TPN),,,,,,
+ Medicines of chronic illnesses for any period of supply after discharge.,,,,,,
+ Blood & blood products transfusion.,,,,,,
+" Laboratory and radiology tests: CT, MRI, Holter, endoscopic procedures,",,,,,,
+ nuclear imaging is excluded. But other ordinary laboratory or radiology work up are included in P/d cost.,,,,,,
+" Personal& comfort expenses, extra foods, telephone bills, companion charges, room upgrade... Etc.",,,,,,
+ Any surgical procedure either under Local or General Anesthesia.,,,,,,
+ Hemodialysis / Chemotherapy,,,,,,
+ Ventilation,400 SR,,,,,
+ Isolation,,,,,,
+,,,,,,
+FMNEP-0045,CRRT(CVVHD) (12 HOURS),6250 SR for Umra,flat rate inclusive except blood and blood derivative,,,
+850 SR Hemodialysis 1 session,flat rate inclusive except blood and blood derivative,,,,,

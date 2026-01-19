@@ -1,0 +1,525 @@
+Code,GENERAL SURGERY Procedures,No. of Days,PD 2016,PD 2021,PD 2022
+SUR-0001,Abscess Drainage GA,Day Case,1815,1887.6,2000.856
+SUR-0002,Circumcision (Over 1 yr. old) G.A.,Day Case,2200,2288,2425.28
+SUR-0003,Circumcision (Less than 1 yr. old) L.A.,Day Case,660,686.4,727.584
+SUR-0004,Removal Foreign Body L.A.,Day Case,990,1029.6,1091.376
+SUR-0005,Removal of Perianal Skin Tag LA,Day Case,990,1029.6,1091.376
+SUR-0006,Drainage ofP eri-Anal Abscess L.A.,Day Case,2310,2402.4,2546.544
+SUR-0007,Excision of Lipoma LA,Day Case,1815,1887.6,2000.856
+SUR-0008,Removal-Thrombosed Pile GA,Day Case,3245,3374.8,3577.288
+SUR-0009,Debridemento f Friction Burns L.A.,Day Case,1815,1887.6,2000.856
+SUR-0010,Removal of Perianal Skin Tag GA,Day Case,3245,3374.8,3577.288
+SUR-0011,Excision of Lipoma GA,Day Case,3179,3306.16,3504.5296
+SUR-Q012,Ischio Rectal Abscess I & D,Day Case,3080,3203.2,3395.392
+SUR-0013,Anal Dilatation,Day Case,3245,3374.8,3577.288
+SUR-0014,L.A. Lymph Node Biopsy,Day Case,1573,1635.92,1734.0752
+SUR-0015,Drainage-Large Abcess Under G.A,Day Case,2640,2745.6,2910.336
+SUR-0016,G.A. Lymph Node Biopsy,Day Case,2662,2768.48,2934.5888
+SUR-0017,Excision-Small Skin Tumors G.A.,Day Case,2662,2768.48,2934.5888
+SUR-0018,Removal of Foreign Body G.A.,Day Case,2640,2745.6,2910.336
+SUR-0019,Excision-Sebaceous CystL A,Day Case,1980,2059.2,2182.752
+SUR-0020,Excision- Ganglion Cyst L.A,Day Case,2420,2516.8,2667.808
+SUR-0021,Ingrowing Toe Nail Removal L.A.,Day Case,908,944.32,1000.9792
+SUR-0022,Excision - Multiple Big Lipoma G.A.,Day Case,3630,3775.2,4001.712
+SUR-0023,L.A. Haematoma Evacuation,Day Case,1815,1887.6,2000.856
+SUR-0024,Excision- Multiple Neurofibroma L.A.,Day Case,3630,3775.2,4001.712
+SUR-0025,ERCP Diagnosis,Day Case,3630,3775.2,4001.712
+SUR-0026,ERCP Therapeutic,Day Case,6050,6292,6669.52
+SUR-0027,Percutaneous Liver Biopsy - LA without Histopath,Day Case,1694,1761.76,1867.4656
+SUR-0028,Removal of Submandibular Gland Stones-LA,1 Day,2420,2516.8,2667.808
+SUR-0029,Perianal Abscess Under G.A.,1 Day,3245,3374.8,3577.288
+SUR-0030,Excision of Simple Tumor or Chronic Abscess of Breast,1 Day,4400,4576,4850.56
+SUR-0031,Small Mass Local excision,1 Day,4620,4804.8,5093.088
+SUR-0032,Laparoscopy (Diagnostic),1 Day,9570,9952.8,10549.967999999999
+SUR-0033,Partial Mastectomy,2 Days,7260,7550.4,8003.424
+SUR-0034,Low Imperforated Anus,2 Days,4620,4804.8,5093.088
+SUR-0035,Biopsy Breast + Tissue Tumor Excision,2 Days,4400,4576,4850.56
+SUR-0036,"Inguinal, Umbilical, Para-Umbilical or Femoral Hernia Surgery w/o Mesh",2 Days,7315,7607.6,8064.0560000000005
+SUR-0037,Mastectomy Male,2 Days,5500,5720,6063.2
+SUR-0038,Low Anal Fistula,2 Days,5170,5376.8,5699.408
+SUR-0039,Clearance of Fatty Hernia ofLi nea Alba,2 Days,4620,4804.8,5093.088
+SUR-0040,Pilonidal Sinus,2 Days,5225,5434,5760.04
+SUR-0041,Undescended Tests within or Outside the Inguinal - Unilateral,2 Days,6545,6806.8,7215.2080000000005
+SUR-0042,Anal Fissure Operation .Sphincterectomy,2 Days,5225,5434,5760.04
+SUR-0043,Haemorrhoidectomy or Pile Under G.A.(Surgical Excision),2 Days,6600,6864,7275.84
+SUR-0044,Colostomy,2 Days,6490,6749.6,7154.576
+SUR-0045,Small Incisional Hernia w/o Mesh,2 Days,6050,6292,6669.52
+SUR-0046,Large Incisional Hernia w/out mesh - surgical,2 Days,9240,9609.6,10186.176
+SUR-0047,Congenital Pyloric Stenosis,2 Days,7700,8008,8488.48
+SUR-0048,Closure of Colostomy with Anastomosis- Surgical,2 Days,10890,11325.6,12005.136
+SUR-0049,Lap. Cholecystectomy,2 Days,12980,13499.2,14309.152
+SUR-0050,Lap. Appendectomy,2 Days,10890,11325.6,12005.136
+SUR-0051,Lap. Inguinal Hernia Repair w/o Mesh,2 Days,10395,10810.8,11459.447999999999
+SUR-0052,Skin Grafting- Small,2 Days,4400,4576,4850.56
+SUR-0053,Skin Grafting- Meduim,2 Days,6600,6864,7275.84
+SUR-0054,Skin Grafting - Large,2 Days,8800,9152,9701.12
+SUR-0055,Staple Haemorrhoidectomy,2 Days,9350,9724,10307.44
+SUR-0056,Closure of Colostomy,2 Days,7205,7493.2,7942.7919999999995
+SUR-0057,Bronchial Cyst,2 Days,5775,6006,6366.36
+SUR-0058,Lumpectomy with Axillary Mass,3 Days,12155,12641.2,13399.672
+SUR-0059,Imperforated Anus-Perineal Anoplasty,3 Days,8800,9152,9701.12
+SUR-0060,Imperforated Anus-Colostomy,3 Days,8800,9152,9701.12
+SUR-0061,Appendectomy Open,3 Days,8470,8808.8,9337.328
+SUR-0062,Subtotal Thyroidectomy,3 Days,10890,11325.6,12005.136
+SUR-0063,Amputation of Limbs Gangrene,3 Days,9680,10067.2,10671.232
+SUR-0064,Strangulated Hernia,3 Days,8800,9152,9701.12
+SUR-0065,Rectal Prolapse,3 Days,10230,10639.2,11277.552000000001
+SUR-0066,Lap. Closure of Perforated of D.U.,3 Days,13200,13728,14551.68
+SUR-0067,Arterial Embolectomy and Venous Thrombectomy,3 Days,13915,14471.6,15339.896
+SUR-0068,Total Thyroidectomy,3 Days,13310,13842.4,14672.944
+SUR-0069,Excision of Submandibular Gland G.A.,3 Days,6930,7207.2,7639.632
+SUR-0070,Laporotomy without Procedure,3 Days,7810,8122.4,8609.743999999999
+SUR-0071,Laparoscopic Adhesolysis,3 Days,10890,11325.6,12005.136
+SUR-0072,Diverticulation Repair without Mesh,3 Days,6600,6864,7275.84
+SUR-0073,Radial Thyroidectomy,4 Days,14520,15100.8,16006.848
+SUR-0074,Enuclation of Thyroid Cyst,4 Days,6600,6864,7275.84
+SUR-0075,Recurrent Hernia w/o Mesh,4 Days,8085,8408.4,8912.904
+SUR-0076 ,Hiqh Anal Fistula,4 Days,8712,9060.48,9604.1088
+SUR-0077,Stranqulated Hernia and Resection Anastomosis,4 Days,14300,14872,15764.32
+SUR-0078,Diaphragmatic Hernia- Open,4 Days,16170,16816.8,17825.808
+SUR-0079,Excision of Hepatic Cysts,4 Days,12650,13156,13945.36
+SUR-0080,Bowel Anastomosis Resection,4 Days,12100,12584,13339.04
+SUR-0081,Acute Peritonitis / Laparotomy,4 Days,9680,10067.2,10671.232
+SUR-0082,Congenital Intestinal Stricture,4 Days,8800,9152,9701.12
+SUR-0083,Embolectomy for Limb Ischemia,4 Days,11000,11440,12126.4
+SUR-0084,Drain Liver Abcess,4 Days,12100,12584,13339.04
+SUR-0085,Hydatid CystL iver,4 Days,12100,12584,13339.04
+SUR-0086,Laporotomy Exploration w/ Procedure,4 Days,12705,13213.2,14005.992
+SUR-0087,Cholecystoduodenostomy-Surgery,4 Days,16500,17160,18189.6
+SUR-0088,Open Cholecystectomy,4 Days,10120,10524.8,11156.287999999999
+SUR-0089,Splenectomy,5 Days,13035,13556.4,14369.784
+SUR-0090,Parotidectomy,5 Days,13200,13728,14551.68
+SUR-0091,Repair ofG astro Fistula or Intestinal Perforation (Surqery),5 Days,12100,12584,13339.04
+SUR-0092,Congenital Intestinal Stricture- Conclusive,5 Days,11000,11440,12126.4
+SUR-0093,Intestinal Volvulous Release,5 Days,12100,12584,13339.04
+SUR-0094,Open Cholecystectomy Exp.O f C.B.D.,5 Days,13860,14414.4,15279.264
+SUR-0095,Partial Gastrectomy,5 Days,12100,12584,13339.04
+SUR-0096,Choledochoduodenostomy,6 Days,18700,19448,20614.88
+SUR-0097,Radical Surgery for Oral Malignancy,6 Days,23100,24024,25465.44
+SUR-0098,Lap. Vagotomy & Gastrojejunostomy,6 Days,16500,17160,18189.6
+SUR-0099,Laproscopic Diaphrag Hernia,6 Days,13200,13728,14551.68
+SUR-0100,Cholecystostomy,6 Days,9350,9724,10307.44
+SUR-0101,Adrenalectomy,6 Days,15400,16016,16976.96
+SUR-0102,Gastrocystostomy,6 Days,13310,13842.4,14672.944
+SUR-0103,Hemicolectomy (Rt or Lt) -Surgery,6 Days,15400,16016,16976.96
+SUR-0104,Anterior Resection,6 Days,21230,22079.2,23403.952
+SUR-0105,Hartman Procedure,3 Days,15400,16016,16976.96
+SUR-0106,Laoroscopic Fundcp'icalign,6 Days,17215,17903.6,18977.816
+SUR-0107,Imperforated Anus-Pulled Abdomino Perianal,6 Days,12980,13499.2,14309.152
+SUR-0108,Partial or Total Pancreatectomy,7 Days,22550,23452,24859.12
+SUR-0109,Total Pelvic Excentration,7 Days,24200,25168,26678.08
+,,,,,
+Note: - Prolene Mesh is NOT included in Package Deal Price.,,,,,
+CODE,GYNAE & OBS Procedures,No. of Days,SGHM Package Deal Price-2016,PD 2021 ,PD 2022
+OBG-0001,Polypectomy Curettage,Day Case,4070,4232.8,4486.768
+OBG-0002,Aspiration of Ovarian Cyst,Day Case,3300,3432,3637.92
+OBG-0003,Removal of Suture,Day Case,1485,1544.4,1637.064
+OBG-0004,Hysteroscopy Diagnotic,Day Case,3190,3317.6,3516.656
+OBG-0005,Removal of IUD (Intra Uterine),Day Case,1815,1887.6,2000.856
+OBG-0006,Shirodkar Suture,1 Day,3300,3432,3637.92
+OBG-0007,Laparoscopy (Not Infertility Investigations-exploration,1 Day,4070,4232.8,4486.768
+OBG-0008,D & C / ERPC,1 Day,3300,3432,3637.92
+OBG-0009,Douglas Pouch Abcess Drainage,1 Dav,3465,3603.6,3819.816
+OBG-0010,Excision of Bartholin Cyst,1 Day,3933,4090.32,4335.7392
+OBG-0011,Removal of IUD ( Extra Uterine) Laparoscopic,1 Day,7150,7436,7882.16
+OBG-0012,Hysteroscopy with Procedure,1 Day,6050,6292,6669.52
+OBG-0013,Oophorectomy,1 Day,8085,8408.4,8912.904
+OBG-0014,Mcdonal Suture,1 Day,2640,2745.6,2910.336
+OBG-0015,Cervical Encirculage,1 Day,3245,3374.8,3577.288
+OBG-0016,Posterior Colpoperrineorraphy,2 Days,6930,7207.2,7639.632
+OBG-0017,Amputation of Cervix,2 Days,6270,6520.8,6912.048
+OBG-0018,Anterior Colpoperrineorrahphy,2 Days,7150,7436,7882.16
+OBG-0019,Vaginal / Perineal Repair,2 Days,4400,4576,4850.56
+OBG-0020,Normal Delivery ,2 Days,4950,5148,5456.88
+OBG-0021,Manchester Repair,2 Days,6600,6864,7275.84
+OBG-0022,Ventro Suspension,2 Days,4950,5148,5456.88
+OBG-0023,Ovarian Cystectomy Surgery,3 Days,8800,9152,9701.12
+OBG-0024,Salpingectomy / Salpingostomy f,3 Days,6270,6520.8,6912.048
+OBG-0025,Lap. Ovarian Cystectomy,3 Days,12485,12984.4,13763.464
+OBG-0026,Radical Hysterectomy,4 Days,23100,24024,25465.44
+OBG-0027,Strasimmams,4 Days,11220,11668.8,12368.928
+OBG-0028,Ceasarian Section,4 Days,10230,10639.2,11277.552000000001
+OBG-0029,Excision of Tubal (Ectopic Pregnancy ) Lap,4 Days,10450,10868,11520.08
+OBG-0030,Hysterectomy ( Vaginal or Abdominal),4 Days,12100,12584,13339.04
+OBG-0031,Myomectomy Abdominal,4 Days,11000,11440,12126.4
+OBG-0032,Tuboplasty,4 Days,13200,13728,14551.68
+OBG-0033,RecurrentM yomectomy,4 Days,18150,18876,20008.56
+OBG-0034,Caesarian Section Twins,4 Days,13200,13728,14551.68
+OBG-0035,Vaginal IUFD Delivery,4 Days,6050,6292,6669.52
+OBG-0036,C.S. IUFD Delivery,4 Days,11000,11440,12126.4
+OBG-0037,Simple Vulvectomy,4 Days,8690,9037.6,9579.856
+OBG-0038,Abdominal Panhysterectomy,5 Days,19800,20592,21827.52
+(3BG-0039,RecurrentOv arian Tumour,5 Days,18150,18876,20008.56
+DBG-0040,Repair ofVesioo - Vaginal Fistula,5 Days,15180,15787.2,16734.432
+GBG-0041,Repair of Recto- Vaginal Fistula,5 Days,15180,15787.2,16734.432
+OBG-0042,Ceasarian Section with Abdominal Hysterectomy,5 Days,16500,17160,18189.6
+QBG-0043,Radical vulvectomy,5 Days,15180,15787.2,16734.432
+QBG-0044,Ceasarian Section-Recurrent,5 Days,11000,11440,12126.4
+OBG-0045,Fothergill Operation,5 Days,10230,10639.2,11277.552000000001
+OBG-0046,Lap. Hysterectomy/Myomectomy,5 Days,12705,13213.2,14005.992
+OBG-0047,Abdominal Sling for Prolapse,6 Days,31130,32375.2,34317.712
+OBG-0048,Classical Repair,6 Days,11330,11783.2,12490.192000000001
+The foliowinq Charaes willb e Applied for De,,,,,
+PDT-001,Normal Baby Care for Normal Delivery,1 Days,550,572,606.32
+PDT-002,Normal Baby Care for Ceasarian Section,4 Days,1100,1144,1212.64
+,,,,,
+Code,ORTHOPEDIC Procedures >,No. of Days,SGHM Package Deal Price-2016,PD 2021,PD 2022
+CRT-0001,Fracture Small Bones of Hand/ Foot +POP,Day Case,1452,1510.08,1600.6848
+"ORT-00C""",POP Simple Fracture w/o Displacement,Day Case,1452,1510.08,1600.6848
+ORT-00CL,POP Foot Deformity Correction,Day Case,2904,3020.16,3201.3696
+ORT-0004,Skin and / or Skeletal Traction on Thoma Splint c- Bobler Spine,Day Case,1870,1944.8,2061.488
+ORT-0005,Tendon Release of Finger/Wrist L.A.,Day Case,3933,4090.32,4335.7392
+ORT-0006,Excision of Olecranon Bursa,Day Case,3933,4090.32,4335.7392
+ORT-0007,Reduction of Fracture or Dislocation and P.O.P.,Day Case,1760,1830.4,1940.2240000000002
+CRT-0008,Removal of Implants/Big Bones,Day Case,5060,5262.4,5578.143999999999
+ORT-0009,Amputation of Finger/Toe,Day Case,3190,3317.6,3516.656
+ORT-0010,Reduction of Fracture or Dislocation of Finger & Splintage in ER,Day Case,1815,1887.6,2000.856
+CRT-0011,Change of POP Under Anesthesia,Day Case,3190,3317.6,3516.656
+ORT-0012,L.A. 2 KWire Removal,Day Case,880,915.2,970.1120000000001
+ORT-0013,Excision ofG anglion,Day Case,3630,3775.2,4001.712
+ORT-OD14,G.A. 2 KWire Removal,Day Case,1650,1716,1818.96
+ORT-0015,Tendon Shealth Splitting L.A.,Day Case,6600,6864,7275.84
+ORT-0016,Terminalization of Finger L.A,Day Case,3850,4004,4244.24
+ORT-0017,Removal of Implants/Small Bones,Day Case,4180,4347.2,4608.032
+ORT-0018,Repair of Lacerated Wound notin volving Tendon or Nerve L.A,Day Case,2805,2917.2,3092.232
+ORT-0019,Plaster Spica or Jacket,Day Case,4400,4576,4850.56
+ORT-0020,Fracture of Coles,Day Case,6600,6864,7275.84
+ORT-0021,Close Reduction-Fracture Tibia,Day Case,4180,4347.2,4608.032
+ORT-0022,Close Reduction-Fracture Radius/Ulna,Day Case,4180,4347.2,4608.032
+ORT-0023,Carpal Tunnel Syndrome Operation,Day Case,4840,5033.6,5335.616
+ORT-0024,Sequestractomy of Small Bones,Day Case,4730,4919.2,5214.352
+ORT-0025,Close Reduction-Simple Fracture G.A.,Day Case,2750,2860,3031.6
+ORT-0026,Close Reduction-Disclocate Phalanges GA,Day Case,1650,1716,1818.96
+ORT-0027,Diagnostic Arthroscopy,Day Case,4235,4404.4,4668.664
+ORT-0028,One Repair of Flexor Tendon of Finger (Direct),1 Day,6930,7207.2,7639.632
+ORT-0029,Reconstruction of Amputated Finger withoutG raft,1 Day,8085,8408.4,8912.904
+ORT-0030,G.A. Mobilization of Frozen Shoulder,1 Day,3410,3546.4,3759.184
+ORT-0031,Capsulotomy of Finger Joints,1 Day,4400,4576,4850.56
+ORT-0032,"Arthroscopy Washout, Trimming, Removal of Loose Bddy",1 Day,6050,6292,6669.52
+ORT-0033,Excision of Lower End of Ulna,1 Day,4840,5033.6,5335.616
+ORT-0034,G.A. Bone Swelling Biopsy without Histopath,1 Day,3520,3660.8,3880.4480000000003
+ORT-0035,Excision ofH ead of Radius,1 Day,4125,4290,4547.4
+ORT-0036,Repair of Ruptured Superficial Ligament Knee or Ankle,2 Days,7865,8179.6,8670.376
+ORT-0037,More Repair of Flexor Tendon of Finger (Direct),2 Days,9240,9609.6,10186.176
+ORT-0038,Repair of Flexor Tendon ofF inger with Graft (Direct),2 Days,12128,12613.12,13369.907200000001
+ORT-0039,Digital Nerve Repair,2 Days,13200,13728,14551.68
+ORT-0040,Correction of Hallux Valggs,2 Days,7315,7607.6,8064.0560000000005
+ORT-0041,4 Arthrodeasis of the Big Toe,2 Days,7315,7607.6,8064.0560000000005
+ORT-0042,Achilles Tendon Length,2 Days,6600,6864,7275.84
+ORT-0043,"O.R.I.F for Dislocation of Ankle, Wrista nd Elbow",2 Days,13200,13728,14551.68
+ORT-0044,Nerve Suture,2 Days,16500,17160,18189.6
+ORT-0045,Correction of Hand & Finger Deformity,2 Days,12705,13213.2,14005.992
+ORT-0046,Cruciate Ligament Reconstruction without Prothesis Act-,2 Days,12100,12584,13339.04
+ORT-0047,Arthroscopy Menisectomy,2 Days,8800,9152,9701.12
+ORT-0048,ACL Reconstruction of Knee Ligament,3 Days,12100,12584,13339.04
+ORT-0049,Operation of Recurrent Dislocation Shoulder,3 Days,13310,13842.4,14672.944
+ORT-0050,Congenital Dislocation,3 Days,13310,13842.4,14672.944
+ORT-0051,Synovectomy (Open),3 Days,10395,10810.8,11459.447999999999
+ORT-0052,Bone Grafting,3 Days,9240,9609.6,10186.176
+ORT-0053,Congenital Dislocation ofH ip (CHD),3 Days,23100,24024,25465.44
+ORT-0054,O.R.I.F of Fracture of Tibia & Fibula,3 Days,13200,13728,14551.68
+ORT-0055,Amputation of Long Bones (Trauma/Congenital),4 Days,20900,21736,23040.16
+ORT-0056,Excision of Cyst & Bone Graft,4 Days,16500,17160,18189.6
+ORT-0057,O.R.I.F. of Fracture Pelvis without prosthesis,4 Days,16500,17160,18189.6
+ORT-0058,Osteotomy,4 Days,9955,10353.2,10974.392
+ORT-0059,Travera Band for Cruciate Ligament Reconstruction-PT/IP,4 Days,14157,14723.28,15606.676800000001
+ORT-0060,Core Tax Band for Cruciate Ligament Reconstruction-PT/IP,4 Days,14157,14723.28,15606.676800000001
+ORT-0061,High Tibial Osteotomy,4 Days,15125,15730,16673.8
+ORT-0062,Laminectormy & Lumbar Disectomy Recurrent One Level,4 Days,16500,17160,18189.6
+ORT-0063,Lumbar / Cervical Disectomy One Level,4 Days,15730,16359.2,17340.752
+ORT-0064,CLR w/ Ligament Patella Band + P.T./I.P.,5 Days,15620,16244.8,17219.487999999998
+ORT-0065,Excision ofC ervical Rib,5 Days,12705,13213.2,14005.992
+ORT-0066,Laminectomy- Laser Conclusive,5 Days,18480,19219.2,20372.352
+ORT-0067,Lumbar Disc Prolapse- Recurrent,5 Days,20790,21621.6,22918.895999999997
+ORT-0068,O.R.I.F. & Partial or Total Excision of Patella without prothesis,5 Days,9790,10181.6,10792.496000000001
+ORT-0069,Major Joints Disarticulation,6 Days,19635,20420.4,21645.624
+ORT-0070,Excision of Malignant Tumors & Bone Graft,6 Days,18150,18876,20008.56
+ORT-0071,Decompression of Spine w/ Arthrodesis,6 Days,34650,36036,38198.16
+ORT-0072,Partial Knee Replacement (Hermiarthroplasty),6 Days,37400,38896,41229.76
+ORT-0073,Total Knee Replacement -Unilateral *,6 Days,42460,44158.4,46807.904
+ORT-0074,Total Hip Replacement (Unilateral),6 Days,41580,43243.2,45837.791999999994
+ORT-0075,Hind Quarter Amputation,6 Days,18480,19219.2,20372.352
+ORT-0076,Lumbar Laminectormy one Level,6 Days,18480,19219.2,20372.352
+ORT-0077,Cervical Laminectormy one Level,6 Days,19800,20592,21827.52
+ORT-0078,"O.R.I.F. for Comminuted or Mai-United Fracture of the Femur, Tibia, Humerus without prothesis",6 Days,15290,15901.6,16855.696
+ORT-0079,Arthrodesis (Knee/HIP/TB),7 Days,20790,21621.6,22918.895999999997
+ORT-0080,Arthroplasties,7 Days,24948,25945.92,27502.675199999998
+,,,,,
+NOTE:- All kind of Orthopedic Implants are NOT Included in Package Deal Price,,,,,
+"EXAMPLE : - Screws.N ails, Plates.W ires.E xternal & InternalF ixations etc.",,,,,
+,,,,,
+Code,( E.N.T Procedures,No. of Days,SGHM Package Deal Price-2016,PD 2021,PD 2022
+ENT-0001,Direct Laryngoscopy,Day Case,3850,4004,4244.24
+ENT-0002,Antral Washout,Day Case,2090,2173.6,2304.016
+ENT-0003,Excision of Uvula,Day Case,2904,3020.16,3201.3696
+ENT-0004,Nasal Cauterization for Epistaxis,Day Case,1815,1887.6,2000.856
+ENT-0005,Partial Inferior Turbinectomy (Unilateral),Dav Case,3630,3775.2,4001.712
+ENT-0006,Suction Clearance Ears,Day Case,2090,2173.6,2304.016
+ENT-0007,"Bilateral Linear Caute, Inferior Turbinate",Day Case,2904,3020.16,3201.3696
+ENT-0008,Removal of Foreign Body from Ear G.A.,Day Case,1705,1773.2,1879.592
+ENT-0009,Nasopharngoscopy with Biopsy,1 Day,3036,3157.44,3346.8864
+ENT-0010,Nasopharngoscopy without Biopsy,1 Day,2426,2523.04,2674.4224
+ENT-0011,Myringotomy & Grommet Tube Insertion (Bilateral),1 Day,3300,3432,3637.92
+ENT-0012,Excision of Lumps from Neck & Head-G.A.,1 Day,3630,3775.2,4001.712
+ENT-0013,Bronchoscopy,1 Day,3740,3889.6,4122.976
+ENT-0014,Aural Polypectomy (Unilateral),1 Day,3630,3775.2,4001.712
+ENT-0015,Cordal Nodule of Benign Tumour from the Vocal Cord,1 Day,10890,11325.6,12005.136
+ENT-0016,Adenoidectomy,1 Day,3300,3432,3637.92
+ENT-0017,SMD,1 Day,2178,2265.12,2401.0272
+ENT-0018,Drainage of Abscess Neck,1 Day,2530,2631.2,2789.0719999999997
+ENT-0019,Drainage of Quinsy,1 Day,2420,2516.8,2667.808
+ENT-0020,Nasal Polypectomy,1 Day,4043,4204.72,4457.0032
+ENT-0021,Myringotomy & Grommet Tube Insertion ( Unilateral!),1 Day,2530,2631.2,2789.0719999999997
+ENT-0022,Tonsillectomy (500 for laser to be added),1 Day,3575,3718,3941.08
+ENT-0023,Reduction of Fracture Nasal Bone,1 Day,2723,2831.92,3001.8352
+ENT-0024,Foreign Body Oesophagus,1 Day,3267,3397.68,3601.5407999999998
+ENT-0025,Bronchoscopy (Foreign Body Removal from Trachea),1 Day,4290,4461.6,4729.296
+ENT-0026,SMR Submucus Resection,2 Days,5775,6006,6366.36
+ENT-0027,Tracheostomy,2 Days,4840,5033.6,5335.616
+ENT-0028,Simple Mastoidectomy,2 Days,6050,6292,6669.52
+ENT-0029,Intra Nasal Antrostomy,2 Days,3850,4004,4244.24
+ENT-0030,Radical Mastoidectomy,2 Days,13860,14414.4,15279.264
+ENT-0031,Septoplasty,2 Days,6050,6292,6669.52
+ENT 0032,Oro-Antral Fistula &,2 Days,6600,6864,7275.84
+ENT-0033,' $5 “ ' Cordopexy,2 Days,6050,6292,6669.52
+ENT-0034,Functional Endoscopy Sinus Surgery Grade 1 (F.E.S.S.),2 Days,4950,5148,5456.88
+ENT-0035,Laser Assited Uveloplatoplasty (LAUP),2 Days,6600,6864,7275.84
+ENT-0036,Microlaryngoscopy with Procedure,2 Days,6600,6864,7275.84
+ENT-0037,Caldwell- LUC Operation,3 Days,6353,6607.12,7003.5472
+ENT-0038,Functional Endoscopy Sinus Surgery Grade 2 (F.E.S.S.),3 Days,6820,7092.8,7518.368
+ENT-0039,Functional Endoscopy Sinus Surgery Grade 3 (F.E.S.S.),3 Days,8690,9037.6,9579.856
+ENT-0040,Correction of Deviated Nasal Septum,3 Days,7700,8008,8488.48
+ENT-0041,Tympanoplasty,4 Days,10395,10810.8,11459.447999999999
+ENT-0042,External Frontal Operation,4 Days,8085,8408.4,8912.904
+ENT-0043,External Ethmoid Operation,4 Days,10395,10810.8,11459.447999999999
+ENT-0044,Stapedectomy,4 Days,10973,11411.92,12096.6352
+ENT-0045,Operation on Vocal Cord E.G. Woodman,4 Days,13310,13842.4,14672.944
+ENT-0046,Arytenoidectomy,4 Days,12705,13213.2,14005.992
+ENT-0047,Radical Mastoidectomy + Tympanoplasty,4 Days,14300,14872,15764.32
+ENT-0048,Operation for Malignant Tumour in ENT,5 Days,16500,17160,18189.6
+,,,,,
+Code,VASCULAR Procedures,No. of Days,SGHM Package Deal Price-2016,PD 2021,PD 2022
+VAS-0001,Peripheral Angioplasty without Stent,1 Day,10835,11268.4,11944.503999999999
+VAS-0002,Arterio Venous Fistula (AV Fistula),1 Day,6050,6292,6669.52
+VAS-0003,Thoracoscopic Sympathectomy (Unilateral),1 Day,8855,9209.2,9761.752
+VAS-0004,Insertion of Permicath or Portacath (Procedure Only),1 Day,5885,6120.4,6487.624
+VAS-0005,Insertion of IVC Filter (Procedure Only),1 Day,11770,12240.8,12975.248
+VAS-0006,Radio Frequency Ablation for Vericose Veins ( Unilateral),1 Day,15400,16016,16976.96
+VAS-0007,Radio Frequency Ablation for Vericose Veins ( Bilateral),1 Day,17490,18189.6,19280.976
+VAS-0008,Stripping Operation for V.V. (One Side),1 Day,9900,10296,10913.76
+VAS-0009,Superficialization of Vein,1 Day,6050,6292,6669.52
+VAS-0010,Femoral Embolectomy,2 Days,12320,12812.8,13581.568
+VAS-0011,Thoracoscopic Sympathectomy (Bilateral),2 Days,12320,12812.8,13581.568
+VAS-0012,Midtarsal Amputation,2 Days,6050,6292,6669.52
+VAS-0013,Arterio Venous Graft (for Dialysis),2 Days,9845,10238.8,10853.127999999999
+VAS-0014,Stripping Operation for V.V. (Bilateral),2 Days,13200,13728,14551.68
+VAS-0015,Peripheral Aneurysm (Excision & Repair),3 Days,15428,16045.12,17007.8272
+VAS-0016,Excision ofH aemangioma (Small),3 Days,9818,10210.72,10823.3632
+VAS-0017,Thoracic Outlet Syndrome,3 Days,14850,15444,16370.64
+VAS-0018,Femoro-Popleteal Bypass,4 Days,22627,23532.08,24944.004800000002
+VAS-0019,Carotid Body Tumour,4 Days,18480,19219.2,20372.352
+VAS-0020,Carotid Endarterectomy,4 Days,21670,22536.8,23889.007999999998
+VAS-0021,Excision ofH aemangioma (Large),4 Days,15428,16045.12,17007.8272
+VAS-0022,Aortic Bypass,5 Days,30855,32089.2,34014.552
+VAS-0023,Femoro-Distal Bypass,5 Days,24695,25682.8,27223.768
+VAS-0024,Abdominal Aortic Aneurysm,5 Days,30855,32089.2,34014.552
+VAS-0025,Aorto Bifemoral Bypass Graft,5 Days,30855,32089.2,34014.552
+VAS-0026,Below Knee Amputation,5 Days,18700,19448,20614.88
+VAS-0027,Above Knee Amputation,5 Days,20900,21736,23040.16
+,,,,,
+Code,OPTHALMOLOGY Procedures,No. of Days,SGHM Package Deal Price-2016,PD 2021,PD 2022
+OPT-0001,Chalazion Removal L.A.,Day Case,715,743.6,788.216
+OPT-0002,Ptergium Removal L.A.,Day Case,2640,2745.6,2910.336
+OPT-0003,Ectropion,Day Case,3025,3146,3334.76
+OPT-0004,Corneal Graft Suture Removal,Day Case,3630,3775.2,4001.712
+OPT-0005,Tarsorraphy,Day Case,2640,2745.6,2910.336
+OPT-0006,Laser Photocoagulation / Eye,Day Case,1815,1887.6,2000.856
+OPT-0007,Irridectomy,1 Day,7260,7550.4,8003.424
+OPT-0008,tt. Dacryo Cystectomy,1 Day,2750,2860,3031.6
+OPT-0009,Enucleation,1 Day,3960,4118.4,4365.504
+OPT-0010,Lacrimal Canaliculum Probing,1 Day,1815,1887.6,2000.856
+OPT-0011,Lacrimal Gland Biopsy,1 Day,3267,3397.68,3601.5407999999998
+OPT-0012,Pterygium G.A.,1 Day,3630,3775.2,4001.712
+OPT-0013,Enucleation with Implant G.A.,2 Days,6600,6864,7275.84
+OPT-0014,Irridectomy Laser,2 Days,6050,6292,6669.52
+OPT-0015,Capsulectomy Laser,2 Days,6050,6292,6669.52
+OPT-0016,Biopsy of Orbital Tumours,2 Days,6353,6607.12,7003.5472
+OPT-0017,Mucous Mem. Grafting/ Trichiasis,2 Days,6930,7207.2,7639.632
+OPT-0018,Corneal Dermoid Excision,2 Days,6930,7207.2,7639.632
+OPT-0019,Dacro Cystorhinostomy,2 Days,8250,8580,9094.8
+OPT-0020,Squint Correction,2 Days,9818,10210.72,10823.3632
+OPT-0021,Capsulectomy,2 Days,6353,6607.12,7003.5472
+OPT-0022,Recurrent Pterygium + SR. 1000 for Graft,3 Days,5500,5720,6063.2
+OPT-0023,Cyclodialysis,3 Days,8910,9266.4,9822.384
+OPT-0024,Repair of Corneal Laceration,3 Days,7508,7808.32,8276.8192
+OPT-0025,Ptosis Repair,3 Days,6930,7207.2,7639.632
+OPT-0026,Cataract Extraction without IOL,3 Days,6545,6806.8,7215.2080000000005
+OPT-0027,Lacrimal Canaliculum Reconst,3 Days,8250,8580,9094.8
+OPT-0028,Anterior Vitrectomy,3 Days,8085,8408.4,8912.904
+OPT-0029,Intraocular FB Removal,3 Days,7150,7436,7882.16
+OPT-0030,Glaucoma Operation Trabe,3 Days,7260,7550.4,8003.424
+OPT-0031,Recurrent Ptosis,3 Days,7508,7808.32,8276.8192
+OPT-0032,Explo/Excision Orbital Tumour,3 Days,9900,10296,10913.76
+OPT-0033,Secondary Insertion of I.O.L.,3 Days,6050,6292,6669.52
+OPT-0034,Posterior Vitrectomy,4 Days,12430,12927.2,13702.832
+OPT-0035,Lamellar Keratoplasty,6 Days,15015,15615.6,16552.536
+OPT-0036,Corneal Graft (P. Keratoplasty),6 Days,18700,19448,20614.88
+OPT-0037,Cataract Extraction with IOL,Day Case,8855,9209.2,9761.752
+,,,,,
+Code,CARDIOLOGY Procedures,No. of Days,SGHM Package Deal Price-2016,PD 2021,PD 2022
+CAR-0001,RT Heart Catherization w/o Shunt Run,Day Case,7700,8008,8488.48
+CAR-0002,Cardiac Catherization (Coronary Angiography),1 Day,7700,8008,8488.48
+CAR-0003,Permanent Pacemaker insertion without cost ofP acemaker,1 Day,21230,22079.2,23403.952
+CAR-0004,Cardiac Catherization Peadia,1 Day,8250,8580,9094.8
+CAR-0006,Thoracoscopy Diagnostic,1 Day,9460,9838.4,10428.704
+CAR-0007,PTCA SV withouts tent,1 ICU + 1 Ward,17600,18304,19402.24
+CAR-0008,PTC A SV + One Stent (Normal Stent),1 ICU + 1 Ward,25850,26884,28497.04
+CAR-0009,"PTCA SV + One Stent (Drug Eluting), SR. 12500 will be charged every other stent",1 ICU + 1 Ward,33000,34320,36379.2
+CAR-0010,PTCA DV withouts Stent,1 ICU + 1 Ward,24200,25168,26678.08
+CAR-0011,PTCA DV + One Stent (Drug Eluting) SR. 12500 will be charged every other stent,1 ICU + 1 Ward,38500,40040,42442.4
+CAR-0012,PTCA TV without stent,1 ICU + 1 Ward,33000,34320,36379.2
+CAR-0013,"PTCA TV + One Stent (Drug Eluting),SR. 12500 will be charged every other stent",1 ICU + 1 Ward,49500,51480,54568.8
+CAR-0014,Intra Aortic Balloon Pump insertion^Procedure),1 ICU + 1 Ward,3850,4004,4244.24
+CAR-0015,Thoracoscopy Therapeutic,4 Days,15950,16588,17583.28
+CAR-0016,Femoro Post Tibial Bypayii (Excluding Sythetic Bypass Graft),5 Days,27500,28600,30316
+CAR-0017,Thoracotomy Evacutation of Hemothorax & Suturing of Lung Blebs,5 Day,31900,33176,35166.56
+CAR-0018,Coronary Artery Bypass Grafting (CABG),8 Days,49500,51480,54568.8
+CAR-0019,Valve Replacementw ithout. Cost of Valve,8 Days,55000,57200,60632
+,,,,,
+Code,UROLOGY Procedures,No. of Days,SGHM Package Deal Price-2016,PD 2021,PD 2022
+URO-0001,Diagnostic Cystoscopy,Day ouse,2915,3031.6,3213.496
+URO-0002,Cysto urethroscopy,Day Case,4400,4576,4850.56
+URO-0003,Cystoscopy & Biopsy ,Day Case,3850,4004,4244.24
+URO-0004,Meatotomy,Day Case,2805,2917.2,3092.232
+URO-0005,Cystoscopy + Retrograde,Day Case,3630,3775.2,4001.712
+URO-0006,Cystoscopy + Insertion of DJ Stent,Day Case,3630,3775.2,4001.712
+URO-0007,Cystoscopy + Removal of DJ Stent,Day Case,2200,2288,2425.28
+URO-0008,True Cut Needle Biopsy- Cystoscopy,Day Case,3850,4004,4244.24
+URO-0009,Testicular Biopsy,Day Case,3630,3775.2,4001.712
+URO-0010,ESWL-Small Stone,Day Case,6050,6292,6669.52
+URO-0011,ESWL-Medium Stone,Day Case,7150,7436,7882.16
+URO-0012,ESWL-Large Stone,Day Case,8800,9152,9701.12
+URO-0013,ESWL-Any Additional Session,Day Case,1320,1372.8,1455.168
+URO-0014,Percutaneous Nephrostomy,1 Day,5225,5434,5760.04
+URO-0015,Laparoscopic Varicocele,1 Day,7150,7436,7882.16
+URO-0016,Meatoplasty,1 Day,3850,4004,4244.24
+URO-0017,Repair of Hypospadias (Simple),1 Day,6050,6292,6669.52
+URO-0018,Repair of Hypospadias (1st Stage),2 Days,7260,7550.4,8003.424
+URO-0019,Repair of Hypospadias (2nd Stage),2 Days,10285,10696.4,11338.184
+URO-0020,Visual Internal Urethrotomy (VIU),2 Days,6600,6864,7275.84
+URO-0021,Cystoscopy + Optical Urethroscopy,2 Days,8250,8580,9094.8
+URO-0022,Cystoscopy + Diathermy of Bladder Carcinoma,2 Days,9900,10296,10913.76
+URO-0023,Open Prostectomy,2 Days,16500,17160,18189.6
+URO-0024,Cystolithopaxy,2 Days,7315,7607.6,8064.0560000000005
+URO-0025,Orchidopexy for Undescended one side,2 Days,7150,7436,7882.16
+URO-0026,Orchidopexy for Undescended (Testes- Bilateral),2 Days,9350,9724,10307.44
+URO-0027,Simple Orchidectomy,2 Days,5280,5491.2,5820.672
+URO-0028,Haemotocele i,2 Days,5170,5376.8,5699.408
+lJRO-0029,Hydrocelectomy,2 Days,5225,5434,5760.04
+URO-0030,Excision ofS permatocele,2 Days,6237,6486.48,6875.6687999999995
+URO-0031,Ligation Varicocele (One Side) surgery,2 Days,5225,5434,5760.04
+URO-0032,Ligation Varicocele (Both Side),2 Days,7150,7436,7882.16
+URO-0033,Lithopaxy End.Plader Stone,2 Days,4620,4804.8,5093.088
+URO-0034,Radical Orchidectomy,3 Days,8250,8580,9094.8
+URO-0035,Suprapubic Cystostomy for Stone,3 Days,8470,8808.8,9337.328
+URO-0036,Diverticulum (Excision of Bladder),3 Days,8470,8808.8,9337.328
+URO-0037,Ureteroscopy + stone manipulation (Add 700 for Laser),3 Days,8855,9209.2,9761.752
+URO-0038,Stricture Anterior Urethra,3 Days,8525,8866,9397.96
+URO-0039,Stricture Posterior Urethra,4 Days,13365,13899.6,14733.576000000001
+URO-0040,T.U.R. of Bladder (Tumours),4 Days,13970,14528.8,15400.527999999998
+URO-0041,Partial Cystectomy,4 Days,15235,15844.4,16795.064
+URO-0042,Pyeloplasty,4 Days,13200,13728,14551.68
+URO-C043,Nephrolithotomy,4 Days,12100,12584,13339.04
+URO-0044,Partial Excision of Tumours of the Kidney and Bladder,4 Days,13310,13842.4,14672.944
+URO-0045,Nephrectomy (Simple),4 Days,10450,10868,11520.08
+URO-0046,Pyelolithotomy,4 Days,13200,13728,14551.68
+URO-0047,Ureterolithotomy,4 Days,10230,10639.2,11277.552000000001
+URO-0048,Perinephric Abscess,4 Days,10742,11171.68,11841.980800000001
+URO-0049,Radical Nephrectomy,5 Days,23100,24024,25465.44
+URO-0050,Nephrouretectomy,5 Days,22000,22880,24252.8
+URO-0051,Cvstourethroscopy and T.U.R. Prostatectomy,5 Days,14438,15015.52,15916.4512
+URO-0052,Resection and Anastomosis or Reimplantation of Urether,5 Days,14520,15100.8,16006.848
+Note: - DJ Stent NOT Included in Package Deal Price.,,,,,
+,,,,,
+,,,,,
+Code,NEUROSURGERY Procedures,No. of Days,SGHM Package Deal Price-2016,PD 2021,PD 2022
+NEU-0001,Steriotactic Biopsy Brain,2 Days,32340,33633.6,35651.616
+NEU-0002,Laser Discectomy,3 Days,19058,19820.32,21009.5392
+NEU-0003,Depressed Fracture of Skull & Decompression,3 Days,14614,15198.56,16110.4736
+NEU-0004,Ventricular-Artrial Shunt,3 Days,19058,19820.32,21009.5392
+NEU-0005,Ventricular- Peritoneal Shunt,3 Days,19058,19820.32,21009.5392
+NEU-0006,Lumbar - Two Disc,4 Days,18480,19219.2,20372.352
+NEU-0007,Shunt for Hydrocephalus Including the Devices,4 Days,22000,22880,24252.8
+NEU-0008,Single Intracerebral Hameatoma Drinage Burrhole,4 Days,15362,15976.48,16935.0688
+NEU-0009,Both Intracerebral Haematoma Drainage Burrhole,4 Days,19058,19820.32,21009.5392
+NEU-0011,Microdiscectomy for Lumbar Disc Prolapse,5 Days,19580,20363.2,21584.992000000002
+NEU-0012,Biopsy- Pineal Gland,5 Days,20790,21621.6,22918.895999999997
+NEU-0013,"Biopsy-PLjitary Gland, Transphenoidal Approach",5 Days,40425,42042,44564.52
+NEU-0014,"Biopsy-Pituitary Gland, Unspecified Approach",5 Days,40425,42042,44564.52
+NEU-0015,Craniotomy & Craniectomy & Procedure for different lesions (non Traumatic),5 Days,25410,26426.4,28011.984
+NEU-0016,"Craniotomy for Hemorrhage, Other & Unspecified Intrcranial,following Injury",5 Days,32340,33633.6,35651.616
+NEU-0017,"Craniotomy for Hemorrhage, Subarachnoid, Subdural & Extradural, following Injury",5 Days,32340,33633.6,35651.616
+NEU-0018,Laminectomy for Stenosis,6 Days,21780,22651.2,24010.272
+NEU-0019,Lumbar Meningocele,6 Days,11550,12012,12732.72
+NEU-0020,Fracture Vertebrae without Prothesis,6 Days,18480,19219.2,20372.352
+NEU-0021,Brain Tumour Supratentorial,7 Days,23678,24625.12,26102.6272
+NEU-0022,Brain Tumour PostF ossa,7 Days,40425,42042,44564.52
+NEU-0023,Pituitary lumour,7 Days,40425,42042,44564.52
+NEU-0024,Cord Tumour,7 Days,25410,26426.4,28011.984
+NEU-0025,"Bypass, Vascular-Aorto-Subclavian-Carotid without Graft",7 Days,40425,42042,44564.52
+NEU-0026,"Bypass, Vascular-Peripheral Artery withoutG raft",7 Days,36960,38438.4,40744.704
+NEU-0027,Cranioplasty,7 Days,25410,26426.4,28011.984
+NEU-0028,Decompression- Trigeminal Nerve Root,7 Days,46200,48048,50930.88
+NEU-0029,"Endarterectomy- Other, Vessels, Head & Neck",7 Days,40425,42042,44564.52
+NEU-0030,Repair of Compound Skull Fracture,7 Days,23100,24024,25465.44
+NEU-0031,Cerebral Menings Repair,9 Days,40425,42042,44564.52
+NEU-0032,Aneurysm -Clipping without coils,10 Days,40425,42042,44564.52
+NEU-0033,Aneurysm- Repair (Other),10 Days,46200,48048,50930.88
+NEU-0034,Cerebral Aneurysm,10 Days,43890,45645.6,48384.335999999996
+NEU-0035,Endarterectomy Intracranial Vessels without coils,10 Days,46200,48048,50930.88
+,,,,,
+Code,DENTAL Procedures,No. of Days,SGHM Package Deal Price-2016,PD 2021,PD 2022
+DNT-0001,I & D FACIAL ABSCESS L A.,Day Case,1452,1510.08,1600.6848
+DNT-0002,REMOVAL OF ARCH BARS & WIRES,2 Days,7260,7550.4,8003.424
+DNT-0003,REMOVAL OF FACIAL FOREIGN BODIES,2 Days,7260,7550.4,8003.424
+DNT-0004,CLOSURE OF FACIAL LACERATION,2 Days,7260,7550.4,8003.424
+DNT-0005,EXCISION OF MINOR SALIVARY GLAND ( MUCOCELE ),2 Days,7260,7550.4,8003.424
+DNT-0006,REMOVAL OF SALIVARY STONE,2 Days,7260,7550.4,8003.424
+DNT-0007,FRENECTOMY LIP / TONGUE G.A.,2 Days,7260,7550.4,8003.424
+DNT-0008,I & D FACIAL ABSCESS G.A.,2 Days,9075,9438,10004.28
+DNT-0009,CLOSED REDUCTION OF .NASAL BONE FRACTURES,2 Days,11495,11954.8,12672.088
+DNT-0010,CLOSURE OF DEEP/MULtlPLE FACIAL LACERATIONG.A,2 Days,11495,11954.8,12672.088
+DNT-0011,EXCISION OF LOCALIZED ORAL TUMOR WITH HISTOPATHOLOGY,2 Days,11495,11954.8,12672.088
+DNT-0012,CLOSED REDUCTION OF MIDFACE FRACTURES,3 Days,14520,15100.8,16006.848
+DNT-0013,CLOSURE OF ORO-ANTRAL FISTULA,3 Days,14520,15100.8,16006.848
+DNT-0014,OR!F FRONTAL BONE FRACTURES,3 Days,21780,22651.2,24010.272
+DNT-0015,ORIF - MIDFACE FRACTURES - UNILATERAL,3 Days,21780,22651.2,24010.272
+DNT-0016,ORIF - MANDIBULAR CONDYLE FRACTURE,3 Days,21780,22651.2,24010.272
+DNT-0017,CLOSED REDUCTION OF MANDIBULAR FRACTURE & IMF,3 Days,21780,22651.2,24010.272
+DNT-0018,REDUCTION & FIXATION OF ALVEOLAR BONE FRACTURE,3 Days,21780,22651.2,24010.272
+DNT-0019,REMOVAL OF FACIAL / MANDIBULAR PLATES,3 Days,21780,22651.2,24010.272
+DNT-0020,EXCISION OF SUBLINGUAL GLAND,3 Days,21780,22651.2,24010.272
+DNT-0021,EXCISION OF FACIAL BENIGN CUTANEOUS NEOPLASM + HISTOPATHOLOGY UNDER G.A.,3 Days,21780,22651.2,24010.272
+DNT-0022,EXCISION OF FACIAL CYST G.A.,3 Days,21780,22651.2,24010.272
+DNT-0023,ENUCULATION OF MAXILLARY / MANDIBULAR CYST,3 Days,21780,22651.2,24010.272
+DNT-0024,ORIF - MIDFACE FRACTURES - BI-LATERAL,3 Days,29040,30201.6,32013.696
+DNT-0025,ORIF ORBITAL FLOOR FRACTURE ( BLOW OUT ),3 Days,29040,30201.6,32013.696
+DNT-0026,ORIF - MANDIBULAR FRACTURE - UNILATERAL,3 Days,29040,30201.6,32013.696
+DNT-0027,MIDFACE OSTEOTOMY LE FORT I,3 Days,29040,30201.6,32013.696
+DNT-0028,SUPERFICIAL PAROTIDECTOMY,3 Days,29040,30201.6,32013.696
+DNT-0029,PRIMARY REPAIR OF CLEFT LIP OR PALATE,3 Days,29040,30201.6,32013.696
+DNT-0030,SECONDARY REPAIR OF CLEFT LIP OR PALATE,3 Days,29040,30201.6,32013.696
+DNT-0031,ORBITAL RECONSTRUCTION,4 Days,36300,37752,40017.12
+DNT-0032,ORIF - MANDIBULAR FRACTURE - BILATERAL,4 Days,36300,37752,40017.12
+DNT-0033,FACIAL BONE GRAFTING & RECONSTRUCTION,4 Days,36300,37752,40017.12
+DNT-0034,MIDFACE OSTEOTOMY LE FORT II,4 Days,36300,37752,40017.12
+DNT-0035,RECONSTRUCTION OF MAXILLARY CLEFT - UNILATERAL,4 Days,36300,37752,40017.12
+DNT-0036,MANDIBULAR OSTEOTOMY,4 Days,36300,37752,40017.12
+DNT-0037,EXCISION OF PAROTID GLAND,4 Days,36300,37752,40017.12
+DNT-0038,REVISION OF CLEFT LIP OR PALATE REPAIR,4 Days,36300,37752,40017.12
+DNT-0039,MANDIBULAR CONDYLECTOMY,4 Days,36300,37752,40017.12
+DNT-0040,EXCISION OF BENIGN TUMOR MANDIBLE OR MAXILLARY BONE,4 Days,36300,37752,40017.12
+DNT-0041,MIDFACE OSTEOTOMY LE FORT III,5 Days,50820,52852.8,56023.968
+DNT-0042,RECONSTRUCTION OF MAXILLARY CLEFT - BILATERAL,5 Days,50820,52852.8,56023.968
+DNT-0043,EXCISION OF MALIGNANT TUMOUR MANDIBLE OR MAXILLARY BONE,5 Days,50820,52852.8,56023.968
+FMVAS-0050,REMOVAL OF PERMI CATH/PORTA CATH,,,,2850

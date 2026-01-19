@@ -1,0 +1,63 @@
+﻿Contract duration,3 years
+,1st year
+Consultation Price,190
+Consultation Discount,0
+Medical Services Discount,0.15
+CT without/with contrast Flat rate,800
+MRI without/with contrast Flat rate,1050
+Medicine Discount,0.05
+Physiotherapy Price,315
+Physiotherapy Discount,0
+Consumable / supplies/ implants / Meidcal Devices / Orthotics / Prosthetics Discount,0.15
+Surgical Packages Discount,0
+2nd Procedure,0.5
+3rd Procedure and more,0.65
+,
+,
+,
+,
+,Total Submitted net Billed means Gross billed - Contractual Discount
+,
+,Prompt Payment Discount (to abe applied during the 3 years contract)
+Prompt Payment Discount,To pay 80% within 10 working days after confirmation of GSS and get 1.5 % discount from Total Early paid amount
+Example EP (Early payment):,"If the Net billed is 30,000,000.00 the EP amount will be 24,000,000 and the discount will be 1.5% = 360,000 SAR"
+,
+,Business Voulme Discount (to abe applied during the 3 years contract)
+Volume Discount,Business Volume discount: will be calculated on yearly basis on the Total Submitted net Billed amount
+"50,000,000 to 100,000,000",0.015
+"100,000,001 to 125,000,000",0.02
+"125,000,001 and above",0.025
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,Referral Discount
+Referral Discount on net Billed amount,12% discount on Total Submitted Billed amount of the referred cases (either appointed or not appointed member)
+,
+,
+The Surgical Package Deal Cost is including:,
+1-All related investigations or procedures once the operation is decided to be done as per the attending doctor advice. (including preoperative investigations),
+2-All Medicine related to the operation recommended by attending physician for In-patient use.,
+3- Private Room and Board.,
+4-Follow up visits within 14 post-operative days as long as it is related to the   operation.,
+"5--All Medical and Surgical supplies, Consumables, Implants, Stents, Valves, Devices, Operation Theater, surgeon fees, Professional fees, and Anesthesia fees.",
+6-Recovery or Resuscitation Room.,
+7- Consultations and Doctor Care,
+8- Nursing care and services.,
+9- Daily Consumable and Disposables.,
+,
+Exclusions of the Surgical Package Deal Cost,
+1- Take Home Medicine.,
+"2- Blood, Plasma and Plasma substitute.",
+"3- Any Chronic Disease that should be monitored before operation done e.g. DM, Bronchial Asthma - in such case Pakcage Deal will start first day operation performed, and approval should be taken for preoperative monitoring.",
+"4- Any special Investigation such as MRI, Chromosomal studiesetc., providing it should be done prior to the operation or after that.",
+"5- Abnormal and Unexpected Complications e.g. Heart Attack, CVA, etc.,",
+6- Accomodation Upgrading.,
+7- Any Extra consultation requested by the patient and not normally done.,
+8- Extra Days in the hospital than the agreed period specified in the Package Deal List.,
+9- ICU in case of complications.,

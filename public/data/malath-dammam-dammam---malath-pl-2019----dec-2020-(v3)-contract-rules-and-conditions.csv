@@ -1,0 +1,20 @@
+MALATH CONTRACT RULES & CONDITIONS,Column2,LAST SENT,Column4
+CLASSES,VVIP/VIP/A+/A,MALATH,
+CONSULTATION,125 FLAT RATE,VVIP / VIP / A+ / A,
+SERVICES,0.25,125 FLAT RATE,
+PACKAGES,0.1,0.25,
+MEDICINE,0.05,0.1,
+MRI (WITHOUT & WITH),1200 FLAT RATE,0.05,
+CT SCAN (WITHOUT & WITH),800 FLAT RATE,1200 FLAT RATE,
+HEMODIALYSIS 1 ST SESSION,1200 FLAT RATE,800 FLAT RATE,
+HEMODIALYSIS SUBSCEQUENT SESSIONS,1000 FLAT RATE,1200 FLAT RATE,
+PRE-OP INVESTIGATION,350 FLAT RATE,1000 FLAT RATE,
+,,350 FLAT RATE,
+,,10% ADDITONAL DISCOUNT,
+VOLUME DISCOUNT STRUCTRE ,,ON THE FINAL NET PAID EXCLUDING MEDICATION AND REJECTION / YEARLY,
+"If the Annual net requested amount from 1,000,000.00 TO 2,000,000.00 the Discount rate will be applied at the NET PAID amount excluding medication. ",0.02,"1,000,000.00 TO 2,000,000.00",0.02
+"If the annual net requested amount from 2,000,000.01 TO 3,000,000.00 the Discount rate will be applied at the NET PAID amount excluding medication. ",0.03,"2,000,000.01 TO 3,000,000.00",0.03
+"If the annual net requested amount from 3,000,000.01 TO 4,000,000.00 the Discount rate will be applied at the NET PAID amount excluding medication. ",0.04,"3,000,000.01 TO 4,000,000.00",0.04
+"If the annual net requested amount reaches  above 4,000,000.00 the Discount rate will be applied at the NET PAID amount excluding medication. ",0.05,"4,000,000.01 AND MORE",0.05
+CONTRACT DURATION,"1 YEAR Starting from March 1st, 2020",CONTRACT DURATION,2 YEARS
+,,PROMPT PAYMENT,0 Discount
